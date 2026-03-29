@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(npm --version:*)",
+      "Bash(npx expo:*)",
+      "WebFetch(domain:docs.expo.dev)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebFetch(domain:www.npmjs.com)",
+      "Bash(npx create-expo-app@latest gymnastics-expo --template blank-typescript)",
+      "Bash(npm install:*)",
+      "Bash(npx tsc:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "WebSearch",
+      "WebFetch(domain:www.youtube.com)",
+      "WebFetch(domain:gymnasticshq.com)",
+      "WebFetch(domain:swingbig.org)",
+      "WebFetch(domain:howtogymnastics.com)",
+      "WebFetch(domain:gymnasticscoaching.com)",
+      "WebFetch(domain:recgymnastics.com)",
+      "WebFetch(domain:tumblingcoach.com)",
+      "WebFetch(domain:www.gearsay.com)",
+      "WebFetch(domain:recgympros.com)"
+    ]
+  }
+}

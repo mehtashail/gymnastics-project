@@ -1,0 +1,53 @@
+{
+  "expo": {
+    "name": "Gymnastics Guide",
+    "slug": "gymnastics-guide",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2C3E50"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gymnastics.guide",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "We need access to your photo library to select videos of your daughter's gymnastics for analysis.",
+        "NSCameraUsageDescription": "We need camera access to record gymnastics videos for analysis.",
+        "NSMicrophoneUsageDescription": "We need microphone access to record gymnastics videos."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2C3E50"
+      },
+      "package": "com.gymnastics.guide",
+      "permissions": [
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "RECORD_AUDIO",
+        "CAMERA"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "We need access to your photos to select gymnastics videos for analysis."
+        }
+      ]
+    ],
+    "scheme": "gymnastics-guide",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
