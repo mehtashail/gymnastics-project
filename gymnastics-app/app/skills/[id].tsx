@@ -7,6 +7,7 @@ import { useEffect } from 'react';
 import { getSkillById, getRelatedSkills } from '../../src/data';
 import { DifficultyBadge } from '../../src/components/DifficultyBadge';
 import { SkillCard } from '../../src/components/SkillCard';
+import { WebContainer } from '../../src/components/WebContainer';
 import { Colors } from '../../src/constants/colors';
 import { APPARATUS_MAP } from '../../src/constants/apparatus';
 import { Skill } from '../../src/types';
@@ -45,7 +46,8 @@ export default function SkillDetailScreen() {
   }
 
   return (
-    <ScrollView style={styles.container} contentContainerStyle={styles.content}>
+    <WebContainer>
+      <ScrollView style={styles.container} contentContainerStyle={styles.content}>
       {/* Header */}
       <View style={[styles.header, { backgroundColor: apparatus?.color }]}>
         <View style={styles.headerTop}>
@@ -161,7 +163,8 @@ export default function SkillDetailScreen() {
           ))}
         </Section>
       )}
-    </ScrollView>
+      </ScrollView>
+    </WebContainer>
   );
 }
 

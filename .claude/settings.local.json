@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(find /Users/smehta/dev/gitrepos/gymnastics-project/gymnastics-app/node_modules/react-native-web -name Platform* -maxdepth 5)",
+      "Bash(find /Users/smehta/dev/gitrepos/gymnastics-project/gymnastics-app/node_modules -name package.json -path */react-native-web/package.json)",
+      "Bash(ls /Users/smehta/dev/gitrepos/gymnastics-project/gymnastics-app/node_modules/react-native/Libraries/Utilities/Platform.web*)"
+    ]
+  }
+}

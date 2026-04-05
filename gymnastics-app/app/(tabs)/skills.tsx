@@ -3,6 +3,7 @@ import { View, FlatList, StyleSheet, TextInput, Text } from 'react-native';
 import { useRouter } from 'expo-router';
 import { SkillCard } from '../../src/components/SkillCard';
 import { FilterChips } from '../../src/components/FilterChips';
+import { WebContainer } from '../../src/components/WebContainer';
 import { useSkills } from '../../src/hooks/useSkills';
 import { Colors } from '../../src/constants/colors';
 import { Skill } from '../../src/types';
@@ -24,7 +25,8 @@ export default function SkillsScreen() {
   }
 
   return (
-    <View style={styles.container}>
+    <WebContainer>
+      <View style={styles.container}>
       <View style={styles.searchBar}>
         <Text style={styles.searchIcon}>🔍</Text>
         <TextInput
@@ -66,7 +68,8 @@ export default function SkillsScreen() {
           </Text>
         }
       />
-    </View>
+      </View>
+    </WebContainer>
   );
 }
 

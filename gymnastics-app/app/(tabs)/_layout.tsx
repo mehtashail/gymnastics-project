@@ -1,4 +1,5 @@
 import { Tabs } from 'expo-router';
+import { Platform } from 'react-native';
 import { Colors } from '../../src/constants/colors';
 
 export default function TabLayout() {
@@ -11,6 +12,11 @@ export default function TabLayout() {
           backgroundColor: Colors.surface,
           borderTopColor: Colors.border,
           paddingBottom: 4,
+          ...(Platform.OS === 'web' && {
+            maxWidth: 768,
+            alignSelf: 'center',
+            width: '100%',
+          }),
         },
         headerStyle: { backgroundColor: Colors.primary },
         headerTintColor: Colors.white,

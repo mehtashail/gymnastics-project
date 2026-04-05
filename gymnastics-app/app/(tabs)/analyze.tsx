@@ -6,6 +6,7 @@ import {
 import { useRouter } from 'expo-router';
 import * as ImagePicker from 'expo-image-picker';
 import { Colors } from '../../src/constants/colors';
+import { WebContainer } from '../../src/components/WebContainer';
 import { Skill, AnalysisMode } from '../../src/types';
 import { allSkills } from '../../src/data';
 import { APPARATUS_MAP } from '../../src/constants/apparatus';
@@ -82,7 +83,8 @@ export default function AnalyzeScreen() {
   const isLoading = status === 'uploading' || status === 'analyzing';
 
   return (
-    <ScrollView style={styles.container} contentContainerStyle={styles.content}>
+    <WebContainer>
+      <ScrollView style={styles.container} contentContainerStyle={styles.content}>
       <Text style={styles.intro}>
         Upload a video of your daughter and get feedback on her gymnastics technique.
       </Text>
@@ -184,7 +186,8 @@ export default function AnalyzeScreen() {
           {status === 'uploading' ? 'Uploading video...' : 'AI is analyzing the video (30-60s)...'}
         </Text>
       )}
-    </ScrollView>
+      </ScrollView>
+    </WebContainer>
   );
 }
 

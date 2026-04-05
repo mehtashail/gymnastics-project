@@ -4,6 +4,7 @@ import { useLocalSearchParams, useNavigation, useRouter } from 'expo-router';
 import { useEffect } from 'react';
 import { SkillCard } from '../../src/components/SkillCard';
 import { FilterChips } from '../../src/components/FilterChips';
+import { WebContainer } from '../../src/components/WebContainer';
 import { useSkills } from '../../src/hooks/useSkills';
 import { Colors } from '../../src/constants/colors';
 import { APPARATUS_MAP } from '../../src/constants/apparatus';
@@ -40,7 +41,8 @@ export default function ApparatusScreen() {
   }
 
   return (
-    <View style={styles.container}>
+    <WebContainer>
+      <View style={styles.container}>
       <View style={[styles.hero, { backgroundColor: apparatusInfo.color }]}>
         <Text style={styles.heroTitle}>{apparatusInfo.displayName}</Text>
         <Text style={styles.heroDesc}>{apparatusInfo.description}</Text>
@@ -67,7 +69,8 @@ export default function ApparatusScreen() {
           </View>
         }
       />
-    </View>
+      </View>
+    </WebContainer>
   );
 }
 

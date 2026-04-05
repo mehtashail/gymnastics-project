@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { View, Text, ScrollView, StyleSheet, TouchableOpacity } from 'react-native';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { getSkillById } from '../../src/data';
+import { WebContainer } from '../../src/components/WebContainer';
 import { Colors } from '../../src/constants/colors';
 import { APPARATUS_MAP } from '../../src/constants/apparatus';
 import { AIFeedback, AIFeedbackItem } from '../../src/types';
@@ -48,7 +49,8 @@ function QuickTipsView({ skill, apparatusColor, onBack }: any) {
   const checkedCount = Object.values(checked).filter(Boolean).length;
 
   return (
-    <ScrollView style={styles.container} contentContainerStyle={styles.content}>
+    <WebContainer>
+      <ScrollView style={styles.container} contentContainerStyle={styles.content}>
       <View style={[styles.skillBanner, { backgroundColor: apparatusColor }]}>
         <Text style={styles.bannerLabel}>Quick Tips for</Text>
         <Text style={styles.bannerSkill}>{skill.name}</Text>
@@ -97,7 +99,8 @@ function QuickTipsView({ skill, apparatusColor, onBack }: any) {
       <TouchableOpacity style={styles.backButton} onPress={onBack}>
         <Text style={styles.backButtonText}>← Back to Analyze</Text>
       </TouchableOpacity>
-    </ScrollView>
+      </ScrollView>
+    </WebContainer>
   );
 }
 
@@ -107,7 +110,8 @@ function AIFeedbackView({ feedback, skill, apparatusColor, onBack }: any) {
   const safety = feedback.items.filter((i: AIFeedbackItem) => i.category === 'safety');
 
   return (
-    <ScrollView style={styles.container} contentContainerStyle={styles.content}>
+    <WebContainer>
+      <ScrollView style={styles.container} contentContainerStyle={styles.content}>
       <View style={[styles.skillBanner, { backgroundColor: apparatusColor }]}>
         <Text style={styles.bannerLabel}>AI Analysis for</Text>
         <Text style={styles.bannerSkill}>{skill.name}</Text>
@@ -176,7 +180,8 @@ function AIFeedbackView({ feedback, skill, apparatusColor, onBack }: any) {
       <TouchableOpacity style={styles.backButton} onPress={onBack}>
         <Text style={styles.backButtonText}>← Analyze Another Video</Text>
       </TouchableOpacity>
-    </ScrollView>
+      </ScrollView>
+    </WebContainer>
   );
 }
 

@@ -2,6 +2,7 @@ import React from 'react';
 import { View, Text, ScrollView, StyleSheet } from 'react-native';
 import { useRouter } from 'expo-router';
 import { ApparatusCard } from '../../src/components/ApparatusCard';
+import { WebContainer } from '../../src/components/WebContainer';
 import { APPARATUS_LIST } from '../../src/constants/apparatus';
 import { Colors } from '../../src/constants/colors';
 import { ApparatusInfo } from '../../src/types';
@@ -14,7 +15,8 @@ export default function HomeScreen() {
   }
 
   return (
-    <ScrollView style={styles.container} contentContainerStyle={styles.content}>
+    <WebContainer>
+      <ScrollView style={styles.container} contentContainerStyle={styles.content}>
       <View style={styles.hero}>
         <Text style={styles.heroTitle}>Women's Artistic Gymnastics</Text>
         <Text style={styles.heroSubtitle}>
@@ -48,7 +50,8 @@ export default function HomeScreen() {
           </Text>
         </View>
       </View>
-    </ScrollView>
+      </ScrollView>
+    </WebContainer>
   );
 }
 
