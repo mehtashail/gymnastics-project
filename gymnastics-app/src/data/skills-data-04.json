@@ -1,0 +1,450 @@
+[
+  {
+    "id": "beam-006",
+    "name": "Back Layout Salto (Beam)",
+    "technicalName": "Back Salto Layout",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Advanced",
+    "description": "A back salto (backflip) on beam in layout position — body completely straight, no tuck or pike — is one of the most visually striking skills in women's gymnastics. Your daughter takes off from both feet, flips all the way backward with a straight body, and lands back on the same 4-inch beam. The difficulty of landing back on the beam after a full flip is enormous.",
+    "whatToLookFor": [
+      "A strong jump upward at takeoff — she should go UP before going OVER",
+      "A completely straight, stretched body during the flip (no bend at hips or knees)",
+      "Good height — you should see daylight under her feet at the peak",
+      "A confident, two-foot landing back on the beam",
+      "Controlled arms that help with timing and balance on landing"
+    ],
+    "commonMistakes": [
+      "A piked or tucked body instead of layout — bent hips or knees reduce the score significantly",
+      "Not getting enough height, which causes a rushed, under-rotated flip",
+      "Landing with feet apart on the beam — they must land together",
+      "Over-rotating and losing her footing",
+      "An arched back (not the same as layout — arching is a mistake)"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm006-1",
+        "cue": "Jump up first",
+        "description": "Strong upward jump, height before rotation"
+      },
+      {
+        "id": "bm006-2",
+        "cue": "Straight layout body",
+        "description": "No bend anywhere from shoulders to toes"
+      },
+      {
+        "id": "bm006-3",
+        "cue": "Good height visible",
+        "description": "Clear rise before the flip happens"
+      },
+      {
+        "id": "bm006-4",
+        "cue": "Two-foot landing on beam",
+        "description": "Both feet land together back on the beam"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-004",
+      "beam-007"
+    ],
+    "videos": [
+      {
+        "id": "bm006-vid1",
+        "title": "Back Layout on Beam — Tutorial",
+        "url": "https://www.youtube.com/results?search_query=back+layout+salto+balance+beam+gymnastics+tutorial+level+8+9",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "advanced",
+      "back salto",
+      "layout",
+      "tumbling"
+    ]
+  },
+  {
+    "id": "beam-007",
+    "name": "Wolf Turn on Beam",
+    "technicalName": "Wolf Turn",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "A wolf turn is a spin on one foot in a crouching position — one leg is squatting while the other is extended out to the side. It looks like a dancer in a crouching arabesque. This turn became enormously popular after top gymnasts started doing triple and quadruple wolf turns for maximum difficulty value.",
+    "whatToLookFor": [
+      "The squatting leg at roughly a 90-degree angle (not standing tall)",
+      "The extended leg held straight out to the side",
+      "Spinning smoothly on the toes or flat foot of the squatting leg",
+      "Completing the full number of rotations clearly",
+      "A controlled finish — not falling over at the end of the spin"
+    ],
+    "commonMistakes": [
+      "Rising up too tall and turning it into a regular turn instead of a wolf shape",
+      "The extended leg bending at the knee — it should stay straight",
+      "Losing balance and stepping off the beam mid-spin",
+      "An incomplete turn — the number of rotations must be clear and intentional",
+      "The working foot slipping during the turn"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm007-1",
+        "cue": "Low squat position",
+        "description": "Squatting leg at 90°, not standing"
+      },
+      {
+        "id": "bm007-2",
+        "cue": "Straight extended leg",
+        "description": "The out leg stays completely straight"
+      },
+      {
+        "id": "bm007-3",
+        "cue": "Complete all rotations",
+        "description": "Every full turn is visible and complete"
+      },
+      {
+        "id": "bm007-4",
+        "cue": "Controlled finish",
+        "description": "Stops without wobbling or stepping off"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-003",
+      "beam-008"
+    ],
+    "videos": [
+      {
+        "id": "bm007-vid1",
+        "title": "Wolf Turn on Beam Tutorial",
+        "url": "https://www.youtube.com/results?search_query=wolf+turn+balance+beam+gymnastics+tutorial+level+6+7",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "intermediate",
+      "wolf turn",
+      "spin",
+      "dance element",
+      "xcel-gold",
+      "xcel-platinum",
+      "b-level"
+    ]
+  },
+  {
+    "id": "beam-008",
+    "name": "Switch Ring Leap",
+    "technicalName": "Switch Ring Leap",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Advanced",
+    "description": "This is one of the most beautiful leaps in gymnastics. Your daughter takes off from one foot, does a switch of the legs in the air (the front leg swings back and the back leg swings forward), then bends the back knee and grabs or reaches for the foot behind her — making a 'ring' shape with her body. The combination of height, flexibility, and control makes this highly valued.",
+    "whatToLookFor": [
+      "A clear split in the air before the switch happens",
+      "The switch of legs happening visibly — front becomes back and back becomes front",
+      "The back leg bending to form the ring shape — her foot should ideally reach toward her head",
+      "Remaining on the beam — this is extra impressive because of how much is happening",
+      "Good height so there's time for the switch and the ring shape to form"
+    ],
+    "commonMistakes": [
+      "The switch not happening — it looks like just a regular split leap",
+      "The back leg not bending enough to form the ring shape — a shallow ring scores lower",
+      "Not enough height, causing a rushed switch",
+      "Landing off-balance after the complex movement",
+      "Flexibility limiting how much of the ring she can achieve"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm008-1",
+        "cue": "Clear switch visible",
+        "description": "Legs clearly switch positions in the air"
+      },
+      {
+        "id": "bm008-2",
+        "cue": "Back leg bends for ring",
+        "description": "Heel comes toward head to form ring shape"
+      },
+      {
+        "id": "bm008-3",
+        "cue": "Good height",
+        "description": "Enough air time for all the movement to happen"
+      },
+      {
+        "id": "bm008-4",
+        "cue": "Lands on beam",
+        "description": "Controlled landing back on the 4-inch surface"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-007",
+      "beam-003"
+    ],
+    "videos": [
+      {
+        "id": "bm008-vid1",
+        "title": "Switch Ring Leap on Beam",
+        "url": "https://www.youtube.com/results?search_query=switch+ring+leap+balance+beam+gymnastics+tutorial+advanced",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "advanced",
+      "leap",
+      "switch",
+      "ring",
+      "dance element"
+    ]
+  },
+  {
+    "id": "beam-009",
+    "name": "Sheep Jump",
+    "technicalName": "Sheep Jump",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "A sheep jump looks exactly like its name — your daughter jumps with both feet and bends backward sharply while in the air, with both legs kicking up behind her and her head dropping back. The shape it makes in the air is like a U or a backwards arch. It requires strong back flexibility and good air awareness.",
+    "whatToLookFor": [
+      "Both legs kicking up behind her simultaneously — not one at a time",
+      "Her head dropping backward to deepen the arch",
+      "The knees bending to bring the feet toward the head",
+      "Good height — the more air time, the better the shape looks",
+      "A controlled, two-foot landing back on the beam"
+    ],
+    "commonMistakes": [
+      "Only one leg kicking up — creates an asymmetrical, confused-looking skill",
+      "Not arching the back enough — a flat sheep jump misses the point of the skill",
+      "Not getting enough height to form the shape cleanly",
+      "Landing with feet apart or stumbling on landing",
+      "The head not dropping back, keeping the body stiff"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm009-1",
+        "cue": "Both legs kick up together",
+        "description": "Simultaneous kick of both heels toward head"
+      },
+      {
+        "id": "bm009-2",
+        "cue": "Head drops back",
+        "description": "Head arches back to deepen the U-shape"
+      },
+      {
+        "id": "bm009-3",
+        "cue": "Good height",
+        "description": "Jumps up enough to form the shape clearly"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-003",
+      "beam-010"
+    ],
+    "videos": [
+      {
+        "id": "bm009-vid1",
+        "title": "Sheep Jump on Beam Tutorial",
+        "url": "https://www.youtube.com/results?search_query=sheep+jump+balance+beam+gymnastics+tutorial+back+bend",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "intermediate",
+      "sheep jump",
+      "leap",
+      "flexibility"
+    ]
+  },
+  {
+    "id": "beam-010",
+    "name": "Aerial Cartwheel on Beam (Side Aerial)",
+    "technicalName": "Aerial Cartwheel / Side Aerial",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Advanced",
+    "description": "The side aerial (also called aerial cartwheel) is one of the most breathtaking beam skills you will ever watch: your daughter does a full sideways cartwheel over the beam without her hands ever touching it. She launches off one foot, flies sideways through the air in a cartwheel-like arc, and lands back on the beam on two feet — all without touching her hands down. The crowd always reacts to this skill. It requires extraordinary courage and is a big step up from a regular cartwheel on beam.",
+    "whatToLookFor": [
+      "A powerful push off the takeoff leg — she needs serious power to clear the beam without hands",
+      "A high, arching flight path — you should see her body rise well above the beam",
+      "A straight body in a clear cartwheel shape in the air (not bent or tucked)",
+      "Both hands staying at her sides — any hand touch on the beam is scored as a fall",
+      "A two-foot landing centered on the beam, not falling off to either side"
+    ],
+    "commonMistakes": [
+      "Touching hands to the beam in panic — this is counted as a fall and is a major deduction",
+      "Not enough height, causing the hips to brush the beam on the way over",
+      "Over-rotating or under-rotating, causing a sideways landing off the beam",
+      "A bent body shape in the air that loses the clean cartwheel line"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm010-1",
+        "cue": "Powerful one-foot launch",
+        "description": "Strong push-off creates the height needed to clear the beam"
+      },
+      {
+        "id": "bm010-2",
+        "cue": "Hands stay up",
+        "description": "Hands never touch the beam — any touch is a fall"
+      },
+      {
+        "id": "bm010-3",
+        "cue": "Clear cartwheel arc",
+        "description": "Her body makes a visible sideways arc over the beam"
+      },
+      {
+        "id": "bm010-4",
+        "cue": "Two-foot landing",
+        "description": "Both feet land on the beam at the same time, centered"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-001",
+      "beam-004"
+    ],
+    "videos": [
+      {
+        "id": "bm010-vid1",
+        "title": "Aerial Cartwheel on Beam — Tutorial",
+        "url": "https://www.youtube.com/results?search_query=aerial+cartwheel+side+aerial+balance+beam+gymnastics+tutorial+advanced",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "intermediate",
+      "aerial",
+      "cartwheel",
+      "no hands"
+    ]
+  },
+  {
+    "id": "beam-011",
+    "name": "Standing Back Tuck (Beam Dismount)",
+    "technicalName": "Back Salto Tucked Dismount",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "A standing back tuck dismount means your daughter jumps backward from the end of the beam, tucks her knees to her chest for a backflip, and lands on the mat below. This is a clean, impressive dismount that shows her backflip skills. The 'standing' part means she takes off from two feet — no run-up.",
+    "whatToLookFor": [
+      "A strong two-foot jump upward from the beam",
+      "A tight tuck with knees pulled firmly to the chest",
+      "The flip completing before her feet hit the mat",
+      "Arms controlling the rotation (coming in to speed up, then opening to slow down)",
+      "A solid landing with knees bent"
+    ],
+    "commonMistakes": [
+      "Not jumping high enough — the height gives her time to flip fully",
+      "A loose tuck where knees aren't pulled to chest (slows the rotation)",
+      "Throwing the head back first instead of jumping up first (causes over-rotation)",
+      "Not opening from the tuck in time and landing in a ball",
+      "Stepping sideways on landing"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm011-1",
+        "cue": "Jump up first",
+        "description": "Two-foot jump upward before any flip motion"
+      },
+      {
+        "id": "bm011-2",
+        "cue": "Tight tuck",
+        "description": "Knees to chest, not a slow open tuck"
+      },
+      {
+        "id": "bm011-3",
+        "cue": "Opens for landing",
+        "description": "Feet drop to mat in time for a solid landing"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-004",
+      "beam-006"
+    ],
+    "videos": [
+      {
+        "id": "bm011-vid1",
+        "title": "Back Tuck Dismount from Beam",
+        "url": "https://www.youtube.com/results?search_query=standing+back+tuck+dismount+balance+beam+gymnastics+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "intermediate",
+      "dismount",
+      "back tuck",
+      "salto"
+    ]
+  },
+  {
+    "id": "beam-012",
+    "name": "Double Pike Dismount (Beam)",
+    "technicalName": "Double Salto Piked Dismount",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "E",
+    "difficultyTier": "Elite",
+    "description": "An elite-level dismount where your daughter performs two complete backflips from the beam in a pike position (legs straight, sharp hip fold). The two flips happen in rapid succession, making it look like a blur of controlled rotation. It's one of the most impressive ways to end a beam routine.",
+    "whatToLookFor": [
+      "Explosive jump upward from the beam at takeoff",
+      "A tight pike position — straight legs, sharp fold at the hips",
+      "Two clearly distinct flips visible (not a blur of undefined rotation)",
+      "Opening from the pike in time to land on feet",
+      "Ideally sticking the landing — elite gymnasts aim for no steps"
+    ],
+    "commonMistakes": [
+      "Not generating enough power to complete two full rotations",
+      "Loose pike — bent knees inside the pike reduce score",
+      "Only completing 1.5 rotations and landing off-axis",
+      "Over-rotating and crashing forward on landing",
+      "Opening too early and under-rotating"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm012-1",
+        "cue": "Maximum power takeoff",
+        "description": "Biggest possible jump to start the dismount"
+      },
+      {
+        "id": "bm012-2",
+        "cue": "Tight pike, straight knees",
+        "description": "Clean pike position with fully straight legs"
+      },
+      {
+        "id": "bm012-3",
+        "cue": "Two visible rotations",
+        "description": "Both flips clearly distinguishable"
+      },
+      {
+        "id": "bm012-4",
+        "cue": "Lands on feet",
+        "description": "Opens in time for a two-foot landing"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-006",
+      "beam-011"
+    ],
+    "videos": [
+      {
+        "id": "bm012-vid1",
+        "title": "Double Pike Dismount — Beam",
+        "url": "https://www.youtube.com/results?search_query=double+pike+dismount+balance+beam+gymnastics+elite+tutorial",
+        "type": "competition"
+      }
+    ],
+    "tags": [
+      "beam",
+      "elite",
+      "dismount",
+      "double pike",
+      "salto"
+    ]
+  }
+]

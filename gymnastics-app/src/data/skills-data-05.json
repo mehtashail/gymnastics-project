@@ -1,0 +1,461 @@
+[
+  {
+    "id": "beam-013",
+    "name": "Acrobatic Series (Beam)",
+    "technicalName": "Acro Series",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Advanced",
+    "description": "A beam series is when your daughter performs two or more acrobatic skills in a row without stopping — for example, a back handspring followed immediately by a back layout. Connecting skills gives bonus points. It's like a tumbling pass on the floor, but on a 4-inch beam. The timing and momentum control required is extraordinary.",
+    "whatToLookFor": [
+      "A smooth, flowing connection between the skills — no pause or wobble in the middle",
+      "Maintaining the quality of each individual skill within the series",
+      "Good landing position from the first skill that naturally feeds into the next",
+      "Confidence throughout — hesitation breaks the connection",
+      "Both skills executed at their full quality, not just surviving to the next one"
+    ],
+    "commonMistakes": [
+      "A visible pause or balance check between the skills (this removes the connection bonus)",
+      "The second skill looking weaker than the first — fatigue and nerves set in",
+      "Landing the first skill off-center on the beam, making the second skill dangerous",
+      "A shortened or rushed second skill because momentum carried incorrectly",
+      "Over-rotating the first skill and running out of beam"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm013-1",
+        "cue": "No pause between skills",
+        "description": "Seamless connection — one flows directly into the next"
+      },
+      {
+        "id": "bm013-2",
+        "cue": "Equal quality both skills",
+        "description": "Second skill looks as good as the first"
+      },
+      {
+        "id": "bm013-3",
+        "cue": "Confident throughout",
+        "description": "No hesitation or balance check mid-series"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-004",
+      "beam-006"
+    ],
+    "videos": [
+      {
+        "id": "bm013-vid1",
+        "title": "Acrobatic Series on Beam — Connection Skills",
+        "url": "https://www.youtube.com/results?search_query=acrobatic+series+connection+balance+beam+gymnastics+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "advanced",
+      "series",
+      "connection",
+      "acrobatic"
+    ]
+  },
+  {
+    "id": "floor-001",
+    "name": "Round-off Back Handspring",
+    "technicalName": "Round-off Back Handspring",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "This is one of the foundational tumbling combinations in gymnastics — the starting point for almost every floor tumbling pass. The round-off is a half-cartwheel that flips your daughter backward, and the back handspring uses that backward momentum to do a backwards hand-stand spring. Together, they look like a fast, flowing backwards sequence. This combination builds the power for back flips and more complex tumbling.",
+    "whatToLookFor": [
+      "A fast, energetic round-off that generates backwards speed",
+      "The feet snapping together at the end of the round-off",
+      "Immediately using that momentum to launch into the back handspring",
+      "Both hands hitting the floor at the same time in the back handspring",
+      "Straight arms throughout both skills"
+    ],
+    "commonMistakes": [
+      "A slow round-off that kills the momentum for the back handspring",
+      "Feet not snapping together at the top of the round-off",
+      "Pausing between the round-off and back handspring — losing all momentum",
+      "One hand landing before the other in the back handspring",
+      "Arching the back in the back handspring instead of staying hollow"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f001-1",
+        "cue": "Fast round-off",
+        "description": "Round-off builds backwards speed — it should feel fast"
+      },
+      {
+        "id": "f001-2",
+        "cue": "Feet snap together",
+        "description": "At the top of the round-off, feet join"
+      },
+      {
+        "id": "f001-3",
+        "cue": "No pause",
+        "description": "Back handspring starts immediately after round-off"
+      },
+      {
+        "id": "f001-4",
+        "cue": "Straight arms both skills",
+        "description": "Arms lock out throughout both elements"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-002",
+      "floor-003"
+    ],
+    "videos": [
+      {
+        "id": "f001-vid1",
+        "title": "Round-Off Back Handspring to Layout — Coach Meggin",
+        "url": "https://www.youtube.com/watch?v=IBGYNDGXY20",
+        "type": "tutorial",
+        "channel": "Coach Meggin"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "tumbling",
+      "round-off",
+      "back handspring",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-002",
+    "name": "Back Tuck (Backflip)",
+    "technicalName": "Back Salto Tucked",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "A back tuck — commonly called a backflip — is when your daughter jumps backward and does a complete backwards flip with her knees tucked to her chest. It's often the first major trick gymnasts learn, and achieving it is one of the biggest milestones in youth gymnastics. When done from a round-off or back handspring, it's a powerful, exciting skill.",
+    "whatToLookFor": [
+      "A strong, upward jump at takeoff — she should go UP, not just backward",
+      "Knees pulled tightly to the chest in the tuck position",
+      "The rotation completing before she reaches the mat",
+      "Arms helping control the spin — in tight when flipping, out when landing",
+      "A landing with feet together and knees bent"
+    ],
+    "commonMistakes": [
+      "Throwing the head backward before jumping up — this causes over-rotation and can be dangerous",
+      "A loose, open tuck where knees aren't pulled in — slows the rotation",
+      "Jumping backward (horizontally) instead of up — reduces the flip time",
+      "Landing with the back curved and head forward instead of standing tall",
+      "One foot landing before the other"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f002-1",
+        "cue": "Jump UP first",
+        "description": "Go upward before going backward"
+      },
+      {
+        "id": "f002-2",
+        "cue": "Tight tuck",
+        "description": "Knees pulled firmly to chest"
+      },
+      {
+        "id": "f002-3",
+        "cue": "Arms control spin",
+        "description": "Arms tighten to speed up, open to slow down"
+      },
+      {
+        "id": "f002-4",
+        "cue": "Stand tall on landing",
+        "description": "Chest comes up, not hunched forward"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-001",
+      "floor-003"
+    ],
+    "videos": [
+      {
+        "id": "f002-vid1",
+        "title": "Back Tuck (Backflip) Tutorial for Beginners",
+        "url": "https://www.youtube.com/results?search_query=back+tuck+backflip+gymnastics+floor+tutorial+level+4+5",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "back tuck",
+      "backflip",
+      "salto",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-003",
+    "name": "Back Layout",
+    "technicalName": "Back Salto Layout",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "A back layout is a backflip with the body completely straight — like a plank rotating through the air. It's harder than a back tuck because straight bodies rotate more slowly, so your daughter needs to generate more power. When done well, it's one of the most beautiful skills in gymnastics — watching someone fly through the air in a perfect straight line is stunning.",
+    "whatToLookFor": [
+      "The body looking completely straight from head to toe — no bend at hips or knees",
+      "A slightly hollow body (not arched) — judges distinguish between these",
+      "Excellent height — the power needed for a layout shows",
+      "A tight, controlled body throughout the entire flip",
+      "Arms helping drive the rotation"
+    ],
+    "commonMistakes": [
+      "Piking at the hips (bending forward at the waist) — this is the most common layout error",
+      "Arching the back — this is different from layout and loses points",
+      "Not getting enough height because the gymnast isn't generating enough power",
+      "Head and eyes dropping down mid-skill",
+      "Coming down before completing the full rotation"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f003-1",
+        "cue": "Completely straight body",
+        "description": "No hip or knee bend — one solid straight line"
+      },
+      {
+        "id": "f003-2",
+        "cue": "Hollow, not arch",
+        "description": "Slightly hollow core, not banana-shaped back"
+      },
+      {
+        "id": "f003-3",
+        "cue": "Excellent height",
+        "description": "Significant rise visible above the floor"
+      },
+      {
+        "id": "f003-4",
+        "cue": "Controlled throughout",
+        "description": "Tight body from takeoff to landing"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-002",
+      "floor-004"
+    ],
+    "videos": [
+      {
+        "id": "f003-vid1",
+        "title": "Back Layout Gymnastics Floor — Tutorial",
+        "url": "https://www.youtube.com/results?search_query=back+layout+gymnastics+floor+tutorial+level+5+6+straight+body",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "intermediate",
+      "layout",
+      "back salto",
+      "straight body",
+      "xcel-gold",
+      "xcel-platinum",
+      "b-level"
+    ]
+  },
+  {
+    "id": "floor-004",
+    "name": "Full Twist (Back Layout Full)",
+    "technicalName": "Back Salto Layout 1/1",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "A 'full' (or full twist) is when your daughter does a back layout with a complete 360-degree twist added. She flips backward AND spins around her vertical axis at the same time. It's two forms of rotation happening simultaneously. This is one of the most common intermediate skills in women's gymnastics and looks spectacular when done well.",
+    "whatToLookFor": [
+      "The same strong, powerful entry as the layout (round-off, back handspring, then full)",
+      "A straight body throughout the twist — no pike or arch",
+      "One complete, clean 360-degree twist — not a fuzzy 270 or 300 degrees",
+      "Arms staying tight during the twist, then opening to control landing",
+      "Landing with chest up, not hunched forward"
+    ],
+    "commonMistakes": [
+      "An incomplete twist — stopping at 270 degrees and landing sideways",
+      "Piking to start the twist instead of keeping the body straight",
+      "Twisting too late (after the flip is mostly done) instead of simultaneously",
+      "Arms going wide during the twist, which slows the rotation",
+      "Over-rotating and crashing forward"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f004-1",
+        "cue": "Straight body for the twist",
+        "description": "No pike or arch while twisting"
+      },
+      {
+        "id": "f004-2",
+        "cue": "Full 360° twist",
+        "description": "Complete single twist — visibly finishes fully"
+      },
+      {
+        "id": "f004-3",
+        "cue": "Arms tight during twist",
+        "description": "Arms stay in to maintain twist speed"
+      },
+      {
+        "id": "f004-4",
+        "cue": "Lands facing same direction as takeoff",
+        "description": "Full = back to facing the same direction"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-003",
+      "floor-005"
+    ],
+    "videos": [
+      {
+        "id": "f004-vid1",
+        "title": "Full Twist (Layout Full) — Gymnastics Floor Tutorial",
+        "url": "https://www.youtube.com/results?search_query=full+twist+back+layout+gymnastics+floor+tutorial+level+6+7",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "intermediate",
+      "full twist",
+      "layout",
+      "twist"
+    ]
+  },
+  {
+    "id": "floor-005",
+    "name": "Double Back Tuck (Floor)",
+    "technicalName": "Double Salto Tucked",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Advanced",
+    "description": "A double back tuck is two complete backflips in a row in a single jump — one of the most exciting skills on floor. Your daughter needs enormous power to generate two complete rotations. Watching a gymnast fly up, flip twice, and land on her feet is one of gymnastics' most crowd-pleasing moments.",
+    "whatToLookFor": [
+      "A very powerful approach — the round-off and back handspring must be fast",
+      "An explosive jump upward at the takeoff",
+      "Two clearly distinct tucks visible — the second flip should be as controlled as the first",
+      "Opening from the tuck in time to see the mat and prepare for landing",
+      "A solid landing — sticking it is the goal"
+    ],
+    "commonMistakes": [
+      "Not having enough power — only completing 1.5 flips and crashing",
+      "A loose tuck that slows the rotation midway through the second flip",
+      "Opening too early from the first flip and not having enough spin for the second",
+      "Landing off-axis, stumbling sideways",
+      "Losing height (the whole pass going too low rather than up)"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f005-1",
+        "cue": "Maximum power approach",
+        "description": "Fast round-off, fast back handspring going in"
+      },
+      {
+        "id": "f005-2",
+        "cue": "Explosive upward jump",
+        "description": "Highest possible jump at takeoff"
+      },
+      {
+        "id": "f005-3",
+        "cue": "Tight tuck both flips",
+        "description": "Knees to chest for both rotations"
+      },
+      {
+        "id": "f005-4",
+        "cue": "Opens for landing",
+        "description": "Spots the landing and opens in time"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-002",
+      "floor-003",
+      "floor-006"
+    ],
+    "videos": [
+      {
+        "id": "f005-vid1",
+        "title": "Double Back Tuck — Floor Exercise",
+        "url": "https://www.youtube.com/results?search_query=double+back+tuck+gymnastics+floor+tutorial+advanced+level+9+10",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "advanced",
+      "double back",
+      "tuck",
+      "salto"
+    ]
+  },
+  {
+    "id": "floor-006",
+    "name": "Double Pike (Floor)",
+    "technicalName": "Double Salto Piked",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "E",
+    "difficultyTier": "Advanced",
+    "description": "Two complete backflips with a straight-leg pike (sharp bend at hips, legs fully extended) — even harder than a double tuck because the pike position rotates more slowly. Your daughter must generate enough power to make two full rotations while maintaining perfect pike form. This is a staple skill at elite levels.",
+    "whatToLookFor": [
+      "An even more powerful approach than a double tuck",
+      "A sharp, tight pike — legs fully straight, hips folded severely",
+      "Two full rotations completing before the landing",
+      "Opening from the pike in time to see the floor",
+      "Chest coming up on landing, not hunching forward"
+    ],
+    "commonMistakes": [
+      "A soft pike with bent knees — this is heavily penalized because it changes the skill",
+      "Under-rotating due to the slower rotation speed of a pike",
+      "Not getting enough height to complete two rotations in pike",
+      "Opening too early and finishing on the wrong foot",
+      "Over-rotating and landing on the chest"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f006-1",
+        "cue": "Maximum power approach",
+        "description": "Even faster approach than double tuck"
+      },
+      {
+        "id": "f006-2",
+        "cue": "Sharp pike, straight knees",
+        "description": "Strict pike with fully straight legs"
+      },
+      {
+        "id": "f006-3",
+        "cue": "Two full rotations",
+        "description": "Both flips complete before landing"
+      },
+      {
+        "id": "f006-4",
+        "cue": "Opens in time",
+        "description": "Body opens from pike before landing"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-005",
+      "floor-007"
+    ],
+    "videos": [
+      {
+        "id": "f006-vid1",
+        "title": "Double Pike — Floor Exercise Gymnastics",
+        "url": "https://www.youtube.com/results?search_query=double+pike+gymnastics+floor+tutorial+advanced+level+9+10",
+        "type": "competition"
+      }
+    ],
+    "tags": [
+      "floor",
+      "advanced",
+      "double pike",
+      "salto",
+      "elite"
+    ]
+  }
+]
