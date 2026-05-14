@@ -1,0 +1,482 @@
+[
+  {
+    "id": "beam-016",
+    "name": "Split on Beam",
+    "technicalName": "Split",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "Performing a full split on the balance beam means lowering both legs into a flat split position — front to back — along a 4-inch wide surface. Your daughter sinks from a standing or kneeling position down until both legs are fully extended along the beam. It's one of the most visually striking held positions in gymnastics and requires the same flexibility as a floor split, plus the nerve to do it at beam height.",
+    "whatToLookFor": [
+      "Hips completely square and facing forward — not turned out to one side to cheat the split",
+      "Both legs fully extended and flat on the beam — not hovering above it",
+      "Front toes pointed — no flexed foot on the leading leg",
+      "Back toes pointed and leg flat against the beam",
+      "A controlled lowering down and controlled rising back up — no plopping or grabbing"
+    ],
+    "commonMistakes": [
+      "Hips rotating sideways to make the split look fuller than it actually is — judges see this easily",
+      "Front foot flexed (toes up) instead of pointed, which is a deduction",
+      "Not achieving full contact between both legs and the beam — still a few inches off",
+      "Grabbing the beam with hands when lowering or rising, causing an additional deduction"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm016-1",
+        "cue": "Square hips",
+        "description": "Hips face directly forward, not rotated to the side"
+      },
+      {
+        "id": "bm016-2",
+        "cue": "Both legs flat on beam",
+        "description": "Full contact from hip to toe on both sides"
+      },
+      {
+        "id": "bm016-3",
+        "cue": "Pointed toes",
+        "description": "Both feet pointed throughout the skill"
+      },
+      {
+        "id": "bm016-4",
+        "cue": "No hands on beam",
+        "description": "Rises back up without using hands for support"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-001",
+      "beam-015"
+    ],
+    "videos": [
+      {
+        "id": "bm016-vid1",
+        "title": "Split on Balance Beam — Gymnastics Tutorial",
+        "url": "https://www.youtube.com/results?search_query=split+balance+beam+gymnastics+flexibility+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "beginner",
+      "split",
+      "flexibility",
+      "held element",
+      "dance",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "beam-017",
+    "name": "Sissone on Beam",
+    "technicalName": "Sissone",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "A sissone is a ballet-derived jump on the beam where your daughter takes off from two feet and lands on one foot, with the other leg extended to the side or rear. It creates a brief split shape in the air. On the beam, the sissone is often used as a connecting element in jump series — two or three jumps linked together — which scores bonus points. Parents often see this as a quick small jump that transitions into a bigger leap.",
+    "whatToLookFor": [
+      "A clear two-foot takeoff — both feet leave the beam at the same moment",
+      "A split shape in the air — legs separating visibly during the jump",
+      "A one-foot landing in balance — her free leg stays extended rather than dropping immediately",
+      "Pointed toes throughout the jump, both in the air and on landing",
+      "The landing being controlled — she shouldn't wobble or put the free foot down for balance"
+    ],
+    "commonMistakes": [
+      "A weak jump height — low jumps mean judges can't see the split shape clearly",
+      "Both feet landing instead of just one (turns it into a different, lower-value skill)",
+      "The free leg immediately dropping on landing instead of staying extended",
+      "Flexed feet (toes up) which are always penalized on beam dance elements"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm017-1",
+        "cue": "Two-foot takeoff",
+        "description": "Both feet push off the beam simultaneously"
+      },
+      {
+        "id": "bm017-2",
+        "cue": "Split shape in air",
+        "description": "Legs clearly separate during the jump"
+      },
+      {
+        "id": "bm017-3",
+        "cue": "One-foot landing",
+        "description": "Lands on one foot with the other leg extended"
+      },
+      {
+        "id": "bm017-4",
+        "cue": "Pointed toes throughout",
+        "description": "Toes pointed from takeoff through landing"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-005",
+      "beam-006",
+      "beam-016"
+    ],
+    "videos": [
+      {
+        "id": "bm017-vid1",
+        "title": "Sissone on Balance Beam — Gymnastics Jump Series",
+        "url": "https://www.youtube.com/results?search_query=sissone+balance+beam+gymnastics+jump+series+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "intermediate",
+      "sissone",
+      "jump",
+      "dance element",
+      "leap series",
+      "connecting element",
+      "xcel-gold",
+      "xcel-platinum",
+      "b-level"
+    ]
+  },
+  {
+    "id": "floor-014",
+    "name": "Back Walkover",
+    "technicalName": "Back Walkover",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The back walkover is one of the most common skills you'll see young gymnasts practice — it's usually one of the first real acrobatic skills a Level 3 gymnast learns. Starting from a stand, your daughter arches backward, plants one hand then the other on the floor, kicks her legs over one at a time, and stands back up. Think of it as a bridge that keeps moving. It requires a good backbend (bridge) and the confidence to kick over backwards.",
+    "whatToLookFor": [
+      "A deep, fluid arch as she reaches back — not a sudden jerk backward",
+      "Her eyes finding the floor behind her before her hands land (she should see where she's going)",
+      "Hands landing sequentially — one at a time, not both at once",
+      "Legs splitting wide as they pass over (the wider the better — more flexibility, better score)",
+      "Standing up all the way with arms overhead, not hunching forward on the finish"
+    ],
+    "commonMistakes": [
+      "Closing her eyes during the backbend — she needs to see the floor so her hands know where to go",
+      "Bending her knees as the legs pass over, which collapses the clean line judges want to see",
+      "Both hands landing simultaneously instead of sequentially (makes it look like a different, messier skill)",
+      "Not finishing fully upright — stepping forward in a crouch instead of stretching tall"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f014-1",
+        "cue": "Eyes find floor",
+        "description": "She looks back and sees the mat before her hands land"
+      },
+      {
+        "id": "f014-2",
+        "cue": "Hands one at a time",
+        "description": "Sequential hand placement, not a simultaneous plop"
+      },
+      {
+        "id": "f014-3",
+        "cue": "Straight legs over",
+        "description": "Knees don't bend as legs pass overhead"
+      },
+      {
+        "id": "f014-4",
+        "cue": "Tall finish",
+        "description": "Stands up fully with arms overhead, not hunching"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-001",
+      "floor-015"
+    ],
+    "videos": [
+      {
+        "id": "f014-vid1",
+        "title": "Back Walkover Tutorial — Gymnastics for Beginners",
+        "url": "https://www.youtube.com/results?search_query=back+walkover+gymnastics+floor+tutorial+level+3+4+beginner",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "back walkover",
+      "level 3",
+      "acrobatic",
+      "bridge",
+      "foundational",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-015",
+    "name": "Front Walkover",
+    "technicalName": "Front Walkover",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The front walkover is the forward-facing companion to the back walkover — equally common at Level 3 and above. Your daughter kicks one leg up overhead, bridges forward, and walks her hands down while her legs pass over in a split, landing one foot at a time to stand up. It flows continuously forward and requires both flexibility (a good split position overhead) and strength (to push up from the bridge to standing). Judges love a big, split-legged version.",
+    "whatToLookFor": [
+      "A high kick to start — the lead leg should go up aggressively to power the skill",
+      "Straight arms when hands contact the floor — bent arms collapse the bridge",
+      "A clear split overhead — legs wide apart when directly above her (this is the most visible part)",
+      "Landing one foot at a time, not both together (landing both together is the front handspring — a different skill)",
+      "Standing up fully at the finish with arms raised, not bent-over"
+    ],
+    "commonMistakes": [
+      "A weak kick that doesn't generate enough momentum to carry her over (she stalls in the bridge)",
+      "Bent elbows when hands hit the floor, which can be an injury risk and is penalized",
+      "A poor split overhead — legs close together looks messy and reduces the score",
+      "Both feet landing at the same time — this changes it to a front handspring (different skill entirely)"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f015-1",
+        "cue": "Aggressive kick",
+        "description": "Lead leg kicks up high to power the skill over"
+      },
+      {
+        "id": "f015-2",
+        "cue": "Straight arms on floor",
+        "description": "Elbows locked, not bent, when hands touch"
+      },
+      {
+        "id": "f015-3",
+        "cue": "Wide split at top",
+        "description": "Legs split wide when directly overhead"
+      },
+      {
+        "id": "f015-4",
+        "cue": "One foot at a time",
+        "description": "Steps down one foot then the other — not both together"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-014",
+      "floor-016"
+    ],
+    "videos": [
+      {
+        "id": "f015-vid1",
+        "title": "Front Walkover Tutorial — Gymnastics",
+        "url": "https://www.youtube.com/results?search_query=front+walkover+gymnastics+floor+tutorial+level+3+4+beginner",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "front walkover",
+      "level 3",
+      "level 4",
+      "acrobatic",
+      "flexibility",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-016",
+    "name": "Front Handspring",
+    "technicalName": "Front Handspring",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Beginner",
+    "description": "The front handspring is like a supercharged front walkover — instead of stepping down one foot at a time, she snaps both feet down together with power, landing on two feet simultaneously. She runs, hurdles (a one-two step), throws her arms to the floor, kicks her legs overhead, and snaps down to an upright landing. It's often the first punch tumbling skill a gymnast learns, because it teaches the powerful snap-down action needed for all future front passes.",
+    "whatToLookFor": [
+      "A confident hurdle step going into the skill — this generates the power",
+      "Straight arms the moment hands contact the floor — this is non-negotiable",
+      "A tight body with legs together as they pass over (not split apart like a walkover)",
+      "A sharp snap-down — both feet hitting the floor together with a visible snap of the body",
+      "Standing upright on the landing — not crashing forward onto bent knees"
+    ],
+    "commonMistakes": [
+      "Bending arms when hands hit the floor — this kills the power and risks the shoulders",
+      "Legs split apart instead of together during the flight (makes it look like a front walkover instead)",
+      "A slow, soft landing instead of a sharp snap-down — she should pop up not dribble down",
+      "Not following through fully: landing in a deep crouch instead of an upright stand"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f016-1",
+        "cue": "Straight arms on floor",
+        "description": "Arms fully locked the instant hands contact the mat"
+      },
+      {
+        "id": "f016-2",
+        "cue": "Legs together over",
+        "description": "Legs stay together as they pass overhead — not split"
+      },
+      {
+        "id": "f016-3",
+        "cue": "Sharp snap-down",
+        "description": "Both feet hit the floor together with a powerful snap"
+      },
+      {
+        "id": "f016-4",
+        "cue": "Stand up tall",
+        "description": "Arrives upright, not hunching forward in a crouch"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-015",
+      "floor-001"
+    ],
+    "videos": [
+      {
+        "id": "f016-vid1",
+        "title": "Front Handspring Tutorial — Gymnastics Floor",
+        "url": "https://www.youtube.com/results?search_query=front+handspring+gymnastics+floor+tutorial+level+4+5+beginner",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "front handspring",
+      "level 4",
+      "level 5",
+      "snap-down",
+      "tumbling",
+      "xcel-gold",
+      "xcel-platinum",
+      "b-level"
+    ]
+  },
+  {
+    "id": "floor-017",
+    "name": "Tuck Jump / Pike Jump",
+    "technicalName": "Jump with Body Shape",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "These are the most fundamental jump elements in a floor routine — required at every level from 1 to Elite. A tuck jump: your daughter jumps straight up and pulls both knees tightly to her chest at the peak. A pike jump: she jumps and shoots both legs straight out in front of her (parallel to the floor) at the peak, body making an L-shape. They look simple but judges score them on height, shape precision, and pointed toes.",
+    "whatToLookFor": [
+      "A clear, visible jump height — low jumps mean there's no time to show the shape properly",
+      "For tuck: knees pulled all the way to the chest, not just a small knee bend",
+      "For pike: legs horizontal and completely straight, parallel to the floor — not a slight forward lean",
+      "Pointed toes throughout the jump — flexed feet are always penalized",
+      "Landing with control: feet together, slight knee bend to absorb impact"
+    ],
+    "commonMistakes": [
+      "Low jump height that leaves no time to form the required shape",
+      "Tuck: knees only halfway up to the chest (a lazy tuck)",
+      "Pike: legs not fully extended or not horizontal — sagging toward the floor",
+      "Flexed feet (toes pointing up) — a very common beginner error that costs points",
+      "Landing with feet apart or stumbling"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f017-1",
+        "cue": "Jump high first",
+        "description": "Max height creates time to show the full shape"
+      },
+      {
+        "id": "f017-2",
+        "cue": "Full shape at peak",
+        "description": "Knees to chest (tuck) or legs horizontal (pike) — not halfway"
+      },
+      {
+        "id": "f017-3",
+        "cue": "Pointed toes throughout",
+        "description": "Toes pointed from takeoff through the shape and landing"
+      },
+      {
+        "id": "f017-4",
+        "cue": "Controlled landing",
+        "description": "Both feet together with a soft knee bend"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-004",
+      "floor-005",
+      "floor-006"
+    ],
+    "videos": [
+      {
+        "id": "f017-vid1",
+        "title": "Tuck Jump and Pike Jump — Gymnastics Dance Elements Tutorial",
+        "url": "https://www.youtube.com/results?search_query=tuck+jump+pike+jump+gymnastics+floor+dance+element+beginner+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "tuck jump",
+      "pike jump",
+      "dance element",
+      "jumps",
+      "foundational",
+      "level 1",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-018",
+    "name": "Tour Jeté",
+    "technicalName": "Tour Jeté (Half-Turn Jump)",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "The tour jeté (pronounced toor zheh-TAY) is one of the most commonly seen leaps in competitive floor routines. Your daughter kicks one leg forward and upward while jumping off the other, completes a 180-degree half-turn in the air (rotating so she's facing the opposite direction), and lands on the leg she kicked forward. At its best it looks like a floating, turning split leap. If you've watched a floor routine and wondered 'what was that spinning jump?', it was probably this.",
+    "whatToLookFor": [
+      "A big, powerful jump height — the turn needs time and air to complete cleanly",
+      "A clear split shape in the air — legs wide apart, both extended, during the turn",
+      "The full 180-degree rotation completing before she lands (landing sideways means an incomplete turn)",
+      "Pointed toes throughout — from the kick all the way through to landing",
+      "A one-foot landing in control — not grabbing for balance or taking extra steps"
+    ],
+    "commonMistakes": [
+      "An incomplete 180-degree turn — ending up facing 90 degrees instead of fully reversed",
+      "Low jump height that leaves no time to show the split shape during the turn",
+      "Legs not splitting wide in the air — a small or bent-leg jump is penalized",
+      "Flexed feet on the front or back leg during the jump"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f018-1",
+        "cue": "High jump",
+        "description": "Big jump height creates time for the turn and split shape"
+      },
+      {
+        "id": "f018-2",
+        "cue": "Split shape during turn",
+        "description": "Legs wide apart, both extended, while rotating"
+      },
+      {
+        "id": "f018-3",
+        "cue": "Full 180 rotation",
+        "description": "She lands facing the opposite direction from takeoff"
+      },
+      {
+        "id": "f018-4",
+        "cue": "Pointed toes throughout",
+        "description": "Feet pointed from the kick through the landing"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-004",
+      "floor-005",
+      "floor-007"
+    ],
+    "videos": [
+      {
+        "id": "f018-vid1",
+        "title": "Tour Jeté — Gymnastics Floor Leap Tutorial",
+        "url": "https://www.youtube.com/results?search_query=tour+jete+half+turn+leap+gymnastics+floor+tutorial+level+6+7",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "intermediate",
+      "tour jete",
+      "leap",
+      "turn",
+      "dance element",
+      "180 turn"
+    ]
+  }
+]
