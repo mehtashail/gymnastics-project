@@ -1,0 +1,479 @@
+[
+  {
+    "id": "floor-025",
+    "name": "Front Tuck (Front Flip)",
+    "technicalName": "Front Salto Tucked",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "The front tuck (officially called a front salto in tucked position) is a forward flip where your daughter runs, hurdles, punches off both feet, and flips forward with her knees pulled to her chest. Unlike everything in back tumbling where she runs in the same direction she flips, in a front tuck she's moving forward and also flipping forward — making it look very different from a backflip. Many Level 5-6 gymnasts use a front tuck as their second tumbling pass. It's visually spectacular because you can see her face during the flip, unlike a backflip.",
+    "whatToLookFor": [
+      "A strong hurdle (the run-run-hop that sets up the jump) — this converts forward speed to upward lift",
+      "A powerful two-foot punch off the floor — both feet together, not one-then-one",
+      "Knees pulling tight to chest immediately after takeoff — forming a compact ball",
+      "Completing the full rotation before opening — she should be upright before her feet land",
+      "Landing on two feet in control — not stumbling forward"
+    ],
+    "commonMistakes": [
+      "A weak punch off the floor that doesn't create enough height for the rotation",
+      "A loose tuck (knees not pulled to chest) that slows the rotation and leaves her short of completing the flip",
+      "Opening too early (legs extending before she's completed the rotation) which causes a face-plant landing",
+      "Opening too late (still in the tuck when she lands) which causes a crash-land onto her shins"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f025-1",
+        "cue": "Strong hurdle into punch",
+        "description": "The run-hurdle builds the speed; the punch converts it to height"
+      },
+      {
+        "id": "f025-2",
+        "cue": "Both feet punch together",
+        "description": "Two-foot takeoff — not one foot then the other"
+      },
+      {
+        "id": "f025-3",
+        "cue": "Tight tuck immediately",
+        "description": "Knees to chest right after her feet leave the floor"
+      },
+      {
+        "id": "f025-4",
+        "cue": "Open at the right time",
+        "description": "Legs extend when she sees the floor in front of her — not too early or too late"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-016",
+      "floor-002",
+      "floor-026"
+    ],
+    "videos": [
+      {
+        "id": "f025-vid1",
+        "title": "Front Tuck / Front Salto Tutorial — Gymnastics Floor",
+        "url": "https://www.youtube.com/results?search_query=front+tuck+front+salto+gymnastics+floor+tutorial+level+5+6",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "intermediate",
+      "front tuck",
+      "front salto",
+      "front flip",
+      "level 5",
+      "level 6",
+      "forward tumbling",
+      "xcel-platinum",
+      "b-level"
+    ]
+  },
+  {
+    "id": "floor-026",
+    "name": "Back Layout Step-Out",
+    "technicalName": "Back Salto Layout Step-out",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "The back layout step-out looks like a back layout (straight-body backflip) but instead of landing on both feet simultaneously, your daughter lands one foot at a time — stepping out into a lunge. This seemingly small difference matters enormously: the step-out version connects naturally into the next acrobatic skill (like another back handspring or walkover) and scores connection bonus points. You'll see it constantly at Level 6-7 when gymnasts do back-to-back tumbling elements. Parents often think it's a sloppy two-foot landing when in fact it's intentional and technically required for the connection.",
+    "whatToLookFor": [
+      "A fully extended straight body throughout the flip — hips and knees should not bend at any point",
+      "The same powerful approach as a regular layout (round-off + back handspring entry)",
+      "One foot landing clearly before the other — this is intentional, not a mistake",
+      "The landing foot meeting the floor in a lunge or stride position, not a stumble",
+      "Flowing directly into the next skill without stopping — the step-out enables continuous tumbling"
+    ],
+    "commonMistakes": [
+      "Piking (bending at the hips) during the layout — the body must stay completely straight",
+      "Stepping out with poor control, turning a technical step-out into an actual stumble",
+      "Insufficient height that forces an early landing before the full rotation is complete",
+      "The step-out direction being sideways rather than in the line of travel"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f026-1",
+        "cue": "Straight body throughout",
+        "description": "Body is a straight plank — no bending at hips or knees"
+      },
+      {
+        "id": "f026-2",
+        "cue": "One foot lands first",
+        "description": "Lead foot hits first, then back foot — this is correct technique"
+      },
+      {
+        "id": "f026-3",
+        "cue": "Flows into next skill",
+        "description": "No stopping between the step-out and whatever comes next"
+      },
+      {
+        "id": "f026-4",
+        "cue": "Lunge position",
+        "description": "Landing foot is in a controlled stride position"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-003",
+      "floor-004",
+      "floor-001"
+    ],
+    "videos": [
+      {
+        "id": "f026-vid1",
+        "title": "Layout Step-Out — Gymnastics Floor Series Connection",
+        "url": "https://www.youtube.com/results?search_query=back+layout+step+out+gymnastics+floor+series+connection+level+6+7",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "intermediate",
+      "layout step-out",
+      "back salto",
+      "step out",
+      "series",
+      "level 6",
+      "level 7",
+      "connection bonus"
+    ]
+  },
+  {
+    "id": "bars-020",
+    "name": "Flyaway with Half Twist",
+    "technicalName": "Layout Flyaway 1/2 Turn",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "The flyaway with a half twist is the most common 'upgrade' to the basic flyaway dismount, widely seen at Level 6-7 meets. Your daughter releases the bar and adds a 180-degree half-turn while flying through the air, so she lands facing the bar (opposite to the regular flyaway where she faces away from it). The twist is controlled and planned — not a panicked spin — and it significantly raises the difficulty score compared to a plain layout flyaway. Parents at mid-level meets see this regularly and often can't tell it apart from a full twist.",
+    "whatToLookFor": [
+      "A clean release from both hands simultaneously — the twist cannot start until she's in the air",
+      "A straight layout body before and after the twist — no piking or tucking at any point",
+      "A smooth, even half-turn — the twist should be in the middle of the flight, not at the end",
+      "Landing facing the bar — this is how you know it was a half and not a full",
+      "A controlled two-foot landing — the twist adds a new direction, making balance harder"
+    ],
+    "commonMistakes": [
+      "Starting the twist too early (while still on the bar) rather than in the air",
+      "A partial twist of only 90-135 degrees — landing sideways to the bar instead of facing it",
+      "Piking during the twist, losing the clean layout shape that makes it look and score well",
+      "Stumbling sideways on landing because the twist rotated her off-axis"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "b020-1",
+        "cue": "Twist starts after release",
+        "description": "The half-turn begins only after both hands leave the bar"
+      },
+      {
+        "id": "b020-2",
+        "cue": "Straight body throughout",
+        "description": "No piking — body stays in layout position during the twist"
+      },
+      {
+        "id": "b020-3",
+        "cue": "Full 180 completed",
+        "description": "She lands facing the bar — the half-turn is complete"
+      },
+      {
+        "id": "b020-4",
+        "cue": "Two-foot landing",
+        "description": "Controlled landing on both feet facing the bar"
+      }
+    ],
+    "relatedSkillIds": [
+      "bars-015",
+      "bars-019"
+    ],
+    "videos": [
+      {
+        "id": "b020-vid1",
+        "title": "Flyaway Half Twist Dismount — Gymnastics Bars Tutorial",
+        "url": "https://www.youtube.com/results?search_query=flyaway+half+twist+dismount+gymnastics+bars+level+6+7+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "bars",
+      "intermediate",
+      "dismount",
+      "flyaway",
+      "half twist",
+      "level 6",
+      "level 7"
+    ]
+  },
+  {
+    "id": "bars-021",
+    "name": "Piked Flyaway Dismount",
+    "technicalName": "Piked Flyaway",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Advanced",
+    "description": "The piked flyaway is a more difficult version of the flyaway dismount where instead of a straight body (layout) or bent-knee tuck, your daughter holds her legs completely straight but folds at the hips (like a jackknife shape) during the flip. The straight-legged, pike position requires significantly more flexibility and body tension than the tuck version. It's commonly seen at Levels 7-8 as an upgrade from the layout flyaway. The clean, straight-legged V-shape in the air is visually very different from both the tuck and layout versions.",
+    "whatToLookFor": [
+      "A clean release off both hands simultaneously — same as any flyaway",
+      "A sharp pike — legs completely straight, folded down toward her face. Hips should be at roughly 90 degrees",
+      "The pike position showing clearly at the peak of the flight before she opens up",
+      "Opening (straightening) before landing — she should be upright when her feet hit the mat",
+      "A two-foot landing — the pike version tends to land with more forward pitch, so a solid landing is especially important"
+    ],
+    "commonMistakes": [
+      "Bending the knees in the pike — this turns it into a sloppy position that judges won't credit as a proper pike",
+      "A shallow pike (barely any fold at the hips) that looks like a poor layout rather than a true pike",
+      "Not opening from the pike soon enough and landing with forward momentum",
+      "Releasing too early off the bar, causing insufficient height for the pike to show clearly"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "b021-1",
+        "cue": "Straight legs throughout",
+        "description": "Knees must stay fully extended — no bending"
+      },
+      {
+        "id": "b021-2",
+        "cue": "Deep pike fold",
+        "description": "Hips fold sharply — body makes a clear V shape"
+      },
+      {
+        "id": "b021-3",
+        "cue": "Open before landing",
+        "description": "Straightens out before her feet reach the mat"
+      },
+      {
+        "id": "b021-4",
+        "cue": "Solid two-foot landing",
+        "description": "Controls the forward energy on landing — no stumble"
+      }
+    ],
+    "relatedSkillIds": [
+      "bars-015",
+      "bars-019",
+      "bars-020"
+    ],
+    "videos": [
+      {
+        "id": "b021-vid1",
+        "title": "Piked Flyaway Dismount — Gymnastics Bars Tutorial",
+        "url": "https://www.youtube.com/results?search_query=piked+flyaway+dismount+gymnastics+bars+level+7+8+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "bars",
+      "advanced",
+      "dismount",
+      "flyaway",
+      "pike",
+      "level 7",
+      "level 8"
+    ]
+  },
+  {
+    "id": "bars-022",
+    "name": "Endo Circle",
+    "technicalName": "Endo Circle (Forward Stalder)",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Advanced",
+    "description": "The Endo circle is the forward-direction counterpart to the Stalder circle — instead of circling backward around the bar, your daughter circles forward. She starts in a straddle handstand at the top of the bar, folds down (piking and straddling), swings through under the bar forward, and rises back up to a handstand on the other side. Like the Stalder, the legs stay in a straddle (wide-apart) position throughout. It's a Level 7-8 skill that looks similar to the Stalder but travels in the opposite direction, requiring equally impressive flexibility and core strength.",
+    "whatToLookFor": [
+      "A clear straddle (wide-leg) position maintained throughout the circle",
+      "The legs pressing close to or against the bar as she passes under it",
+      "A smooth, continuous circular motion — no pausing or stalling mid-circle",
+      "Rising back to a handstand at the finish — not just returning to a cast position",
+      "Good flexibility in the hips and hamstrings — the straddle must be genuinely wide"
+    ],
+    "commonMistakes": [
+      "Legs drifting wide away from the bar, losing the required shape",
+      "Stalling mid-circle because of insufficient swing or flexibility",
+      "A narrow straddle — the legs should be as wide as possible",
+      "The legs touching the bar as she swings under (slight penalty but also affects flow)"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "b022-1",
+        "cue": "Wide straddle throughout",
+        "description": "Legs stay spread wide during the entire forward circle"
+      },
+      {
+        "id": "b022-2",
+        "cue": "Legs pressed to bar",
+        "description": "Inner thighs close to the bar as she swings under"
+      },
+      {
+        "id": "b022-3",
+        "cue": "No pausing",
+        "description": "Continuous forward rotation — smooth all the way around"
+      },
+      {
+        "id": "b022-4",
+        "cue": "Finishes in handstand",
+        "description": "Rises all the way back to a handstand at the top"
+      }
+    ],
+    "relatedSkillIds": [
+      "bars-016",
+      "bars-006",
+      "bars-004"
+    ],
+    "videos": [
+      {
+        "id": "b022-vid1",
+        "title": "Endo Circle — Gymnastics Uneven Bars Tutorial",
+        "url": "https://www.youtube.com/results?search_query=endo+circle+forward+stalder+gymnastics+bars+level+7+8+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "bars",
+      "advanced",
+      "endo",
+      "forward circle",
+      "straddle",
+      "level 7",
+      "level 8",
+      "flexibility"
+    ]
+  },
+  {
+    "id": "beam-023",
+    "name": "Back Tuck Series on Beam",
+    "technicalName": "Back Salto Tucked (in-routine)",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Advanced",
+    "description": "A back tuck performed in the middle of a beam routine — where your daughter flips backward and lands back on the beam rather than off it — is one of the most difficult acrobatic elements at Levels 7-9. It's a completely different skill from the back tuck dismount (beam-011), which ends on the mat. Here, she must land precisely back on a 4-inch beam. It's often performed in series with a back handspring before it, creating a connected acrobatic series. The combination of backward flipping and precision landing on beam is what parents most commonly describe as 'the scariest thing I've seen on beam.'",
+    "whatToLookFor": [
+      "A powerful back handspring leading into the tuck — she needs the momentum from the BHS to complete the flip",
+      "A tight tuck (knees to chest) in the air — a loose tuck is harder to control and more dangerous on beam",
+      "Good height off the beam — the flip needs airtime to complete safely",
+      "Both feet landing on the beam simultaneously and centered — not sideways or catching only one foot",
+      "Balance and control after landing — she should arrive in a controlled position ready to continue the routine"
+    ],
+    "commonMistakes": [
+      "Insufficient height, causing an incomplete flip and dangerous landing short of the beam",
+      "A loose tuck that slows rotation and makes the flip hard to control",
+      "Landing with only one foot or landing sideways (major deduction and fall risk)",
+      "Over-rotating and passing through the landing position, causing a forward stumble off the beam"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm023-1",
+        "cue": "BHS powers the tuck",
+        "description": "The back handspring before it provides the momentum needed"
+      },
+      {
+        "id": "bm023-2",
+        "cue": "Tight tuck",
+        "description": "Knees pulled tightly to chest — loose tucks are harder to control"
+      },
+      {
+        "id": "bm023-3",
+        "cue": "Height over the beam",
+        "description": "She rises visibly above the beam before coming down"
+      },
+      {
+        "id": "bm023-4",
+        "cue": "Both feet land on beam",
+        "description": "Two-foot centered landing — any wobble is a deduction"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-004",
+      "beam-005",
+      "beam-006"
+    ],
+    "videos": [
+      {
+        "id": "bm023-vid1",
+        "title": "Back Tuck on Beam (In-Routine) — Gymnastics Tutorial",
+        "url": "https://www.youtube.com/results?search_query=back+tuck+back+salto+balance+beam+in+routine+series+gymnastics+level+8",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "advanced",
+      "back tuck",
+      "back salto",
+      "in-routine",
+      "series",
+      "level 7",
+      "level 8",
+      "level 9"
+    ]
+  },
+  {
+    "id": "floor-027",
+    "name": "Front Layout (Punch Front)",
+    "technicalName": "Front Salto Layout",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Advanced",
+    "description": "The front layout (also called a punch front when done as a punch salto) is an advanced forward flip performed with a completely straight body — no tucking or piking. Your daughter runs, hurdles, and launches into a forward flip while keeping her entire body rigid and extended, like a board rotating through the air. It's significantly harder than a front tuck because a straight body rotates slower than a tucked one, requiring more height and power. Level 7-8 gymnasts use this as a second tumbling pass or as part of a front pass series.",
+    "whatToLookFor": [
+      "A powerful hurdle and two-foot punch — the straight-body flip needs more height than a front tuck",
+      "An absolutely straight body throughout the flip — no pike, no tuck at any point",
+      "Arms pressing alongside the body in a tight streamlined position",
+      "A full rotation completing before she opens to land — straight body means she must see the floor before feet land",
+      "A controlled two-foot landing — the forward momentum in front layout passes is significant"
+    ],
+    "commonMistakes": [
+      "Piking (bending at hips) during the flip — a piked layout isn't a layout",
+      "Insufficient height from the punch, making the flip rushed and hard to control",
+      "Over-rotating and landing pitched far forward with hands out",
+      "Arms floating away from the body, creating drag that slows the rotation"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f027-1",
+        "cue": "Powerful punch upward",
+        "description": "Two-foot takeoff drives her high enough for the straight-body rotation"
+      },
+      {
+        "id": "f027-2",
+        "cue": "Straight body throughout",
+        "description": "No bending at hips or knees — body stays rigid the whole flip"
+      },
+      {
+        "id": "f027-3",
+        "cue": "Arms tight to body",
+        "description": "Arms pressed alongside the body to streamline the rotation"
+      },
+      {
+        "id": "f027-4",
+        "cue": "See floor before landing",
+        "description": "She spots the landing before her feet arrive — not a blind landing"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-025",
+      "floor-016",
+      "floor-003"
+    ],
+    "videos": [
+      {
+        "id": "f027-vid1",
+        "title": "Front Layout / Punch Front — Gymnastics Floor Tutorial",
+        "url": "https://www.youtube.com/results?search_query=front+layout+punch+front+salto+gymnastics+floor+tutorial+level+7+8",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "advanced",
+      "front layout",
+      "punch front",
+      "front salto",
+      "forward tumbling",
+      "level 7",
+      "level 8"
+    ]
+  }
+]
