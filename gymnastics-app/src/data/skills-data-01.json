@@ -1,0 +1,228 @@
+[
+  {
+    "id": "vault-008",
+    "name": "Straddle Jump over Vault",
+    "technicalName": "Straddle Vault",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "An early vault skill where your daughter approaches the table, places her hands, and straddles over (legs apart to the sides) before landing. It teaches her to trust the springboard and develop the arm strength and coordination needed for real vaults. Common in recreational gymnastics and early competitive levels.",
+    "whatToLookFor": [
+      "Arms pushing off the table with good strength",
+      "Legs going wide out to the sides in a straddle — not in front",
+      "Clear height off the table before straddling",
+      "Landing with both feet at the same time"
+    ],
+    "commonMistakes": [
+      "Not pushing off the table hard enough — the push is what gives her height",
+      "A weak straddle where the legs barely spread",
+      "Landing one foot at a time (should be two feet simultaneously)",
+      "Looking down at the ground instead of ahead on landing"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v008-1", "cue": "Strong push off table", "description": "Arms push hard to create height"},
+      {"id": "v008-2", "cue": "Wide straddle", "description": "Legs spread clearly to each side"},
+      {"id": "v008-3", "cue": "Two-foot landing", "description": "Both feet hit the mat at the same time"}
+    ],
+    "relatedSkillIds": ["vault-001", "vault-007"],
+    "videos": [{"id": "v008-vid1", "title": "Straddle Over Vault — Beginner Gymnastics", "url": "https://www.youtube.com/results?search_query=straddle+jump+vault+gymnastics+beginner+tutorial", "type": "tutorial"}],
+    "tags": ["vault", "beginner", "straddle", "foundational"]
+  },
+  {
+    "id": "vault-009",
+    "name": "Handspring with Half Twist",
+    "technicalName": "Front Handspring Half",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "A step up from the basic handspring vault, this version adds a half turn in the air so your daughter lands facing the vault table instead of away from it. It requires more coordination and body awareness than the basic handspring but is achievable for recreational and early competitive gymnasts.",
+    "whatToLookFor": [
+      "The same strong handspring onto and off the table as the basic version",
+      "A half twist that happens at the peak of her height — not too early, not too late",
+      "Landing facing the vault (not sideways or turned too far)",
+      "Arms coming down to help control the landing"
+    ],
+    "commonMistakes": [
+      "Starting the twist before leaving the table — it should happen in the air",
+      "An incomplete half twist, landing at 45 degrees instead of fully facing the vault",
+      "Losing arm control during the twist, which wobbles the body",
+      "Landing too close to the vault because she did not push hard enough off the table"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v009-1", "cue": "Push first, twist second", "description": "Leaves table fully before beginning the twist"},
+      {"id": "v009-2", "cue": "Complete 180°", "description": "Fully faces the vault on landing"},
+      {"id": "v009-3", "cue": "Arms in control", "description": "Arms stay close to body during twist for control"}
+    ],
+    "relatedSkillIds": ["vault-001", "vault-004"],
+    "videos": [{"id": "v009-vid1", "title": "Handspring Half Twist Vault Tutorial", "url": "https://www.youtube.com/results?search_query=handspring+half+twist+vault+gymnastics+level+5+6+tutorial", "type": "tutorial"}],
+    "tags": ["vault", "intermediate", "handspring", "half twist", "xcel-gold", "xcel-platinum", "b-level"]
+  },
+  {
+    "id": "vault-010",
+    "name": "Yurchenko Pike",
+    "technicalName": "Yurchenko Piked",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Advanced",
+    "description": "Instead of staying straight (layout) in the air, this vault features the Yurchenko entry followed by a tight pike (sharp 90-degree bend at the hips with straight legs). The pike position makes the rotation faster but requires tremendous hamstring flexibility and body control. It is more advanced than a basic Yurchenko.",
+    "whatToLookFor": [
+      "The Yurchenko round-off entry looking powerful and timed correctly",
+      "A sharp fold at the hips into the pike — legs should be nearly touching her chest",
+      "Straight knees throughout the pike position (bent knees reduce the score)",
+      "Opening out of the pike in time to land on her feet",
+      "Feet together on landing"
+    ],
+    "commonMistakes": [
+      "A 'soft' pike where the legs are angled instead of sharply folded",
+      "Bending the knees inside the pike position",
+      "Not opening from the pike in time, causing an awkward landing",
+      "Piking too late — should fold immediately after leaving the table"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v010-1", "cue": "Sharp hip fold", "description": "Hips fold to 90 degrees or less"},
+      {"id": "v010-2", "cue": "Straight knees", "description": "Legs are completely straight throughout"},
+      {"id": "v010-3", "cue": "Open in time", "description": "Body opens before landing is reached"}
+    ],
+    "relatedSkillIds": ["vault-003", "vault-004"],
+    "videos": [{"id": "v010-vid1", "title": "Yurchenko Pike Vault — Gymnastics", "url": "https://www.youtube.com/results?search_query=cartwheel+onto+springboard+vault+gymnastics+beginner", "type": "tutorial"}],
+    "tags": ["vault", "advanced", "yurchenko", "pike"]
+  },
+  {
+    "id": "bars-001",
+    "name": "Glide Kip",
+    "technicalName": "Kip",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The kip is the most fundamental bars skill in gymnastics — it's the entry point to everything else on uneven bars. Your daughter hangs from the bar, swings forward (glide), then whips her feet up to the bar and pushes down to rise to a front support position (sitting on top of the bar with straight arms). Every bars routine starts with a kip or ends with one.",
+    "whatToLookFor": [
+      "A big, long glide forward — the longer the glide, the more power for the kip",
+      "Toes reaching up to touch the bar as her body swings back",
+      "Her hips shooting upward in one quick, powerful motion",
+      "Ending up with straight arms and her hips resting on the bar",
+      "No piking too early — the timing of the hip push is everything"
+    ],
+    "commonMistakes": [
+      "A short glide that doesn't generate enough momentum",
+      "Pulling with the arms instead of using the hip push — the kip is mostly a hip skill",
+      "Feet going to the bar too slowly, losing all the momentum",
+      "Ending with bent arms instead of pushing to a full straight-arm support",
+      "Head dipping (looking down) which breaks the body line"
+    ],
+    "quickTipsChecklist": [
+      {"id": "b001-1", "cue": "Long glide forward", "description": "Swings way out before the hips come up"},
+      {"id": "b001-2", "cue": "Feet to bar quickly", "description": "Toes zip up to the bar, not slowly"},
+      {"id": "b001-3", "cue": "Hip push (not arm pull)", "description": "The upward motion comes from the hips, not pulling"},
+      {"id": "b001-4", "cue": "Straight arms at top", "description": "Arrives at the bar with locked, straight arms"}
+    ],
+    "relatedSkillIds": ["bars-002", "bars-003"],
+    "videos": [
+      {"id": "b001-vid1", "title": "How to Do a Kip on Bars — Step by Step Tutorial", "url": "https://www.youtube.com/watch?v=VNUVKrN4ndc", "type": "tutorial", "channel": "SwingBig"},
+      {"id": "b001-vid2", "title": "Kip Drills on Bars — Swing Big", "url": "https://www.youtube.com/watch?v=ANAbkv5XSjo", "type": "drill", "channel": "Swing Big"}
+    ],
+    "tags": ["bars", "beginner", "kip", "fundamental", "glide", "xcel-gold", "xcel-platinum"]
+  },
+  {
+    "id": "bars-002",
+    "name": "Cast to Handstand",
+    "technicalName": "Cast Handstand",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Beginner",
+    "description": "A cast is when your daughter swings her hips away from the bar while holding it — like a swing on a playground. A cast to handstand means she swings so high that she reaches a perfect vertical (handstand) position above the bar. This skill is required in every level of gymnastics from about Level 4 upward and is the foundation for almost every bars connection.",
+    "whatToLookFor": [
+      "Starting from a hollow body position before the cast",
+      "Her hips shooting UP and AWAY from the bar — not just back",
+      "Achieving a true vertical position (handstand) above the bar",
+      "Legs staying together and straight throughout",
+      "Controlled return back to the bar — not just falling"
+    ],
+    "commonMistakes": [
+      "Only casting to 45 degrees or horizontal instead of all the way to vertical",
+      "Legs splitting apart during the cast — they should stay squeezed together",
+      "Piking at the hips (bending at the waist) on the way up",
+      "Arching the back instead of maintaining a straight body line",
+      "Rushing back to the bar without controlling the descent"
+    ],
+    "quickTipsChecklist": [
+      {"id": "b002-1", "cue": "Hips up and away", "description": "Hips push upward, not just backward"},
+      {"id": "b002-2", "cue": "Reaches vertical", "description": "Achieves true handstand above the bar"},
+      {"id": "b002-3", "cue": "Legs together", "description": "No split between the legs throughout the skill"},
+      {"id": "b002-4", "cue": "Straight body", "description": "No arch or pike — straight from shoulders to toes"}
+    ],
+    "relatedSkillIds": ["bars-001", "bars-004"],
+    "videos": [{"id": "b002-vid1", "title": "Cast to Handstand on Bars — Tutorial", "url": "https://www.youtube.com/results?search_query=cast+to+handstand+gymnastics+bars+tutorial+level+4+5", "type": "tutorial"}],
+    "tags": ["bars", "beginner", "cast", "handstand", "foundation", "xcel-gold", "xcel-platinum", "b-level"]
+  },
+  {
+    "id": "bars-003",
+    "name": "Back Hip Circle",
+    "technicalName": "Back Hip Circle",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "Your daughter starts sitting on top of the bar (in a front support), then tips forward and rotates backwards around the bar in a full circle, ending back where she started. Her hips stay in contact with the bar the whole way around. It looks like a slow-motion spin around the bar and is usually one of the first bars skills gymnasts learn.",
+    "whatToLookFor": [
+      "A tight, hollow body — abs engaged, back not arching",
+      "Hips staying in contact with the bar throughout the spin",
+      "A controlled, smooth rotation — not a panicked, flailing spin",
+      "Ending back in the front support position with straight arms",
+      "Head staying neutral — not looking down or throwing the head back"
+    ],
+    "commonMistakes": [
+      "Letting the hips pull away from the bar during the rotation (this stops the spin)",
+      "Arching the back during the circle instead of staying tight and hollow",
+      "Bending the arms, which makes the whole skill fall apart",
+      "Going too fast or panicking halfway through and letting go",
+      "Landing back on top of the bar with bent arms"
+    ],
+    "quickTipsChecklist": [
+      {"id": "b003-1", "cue": "Hips on bar", "description": "Belly stays in contact with the bar all the way around"},
+      {"id": "b003-2", "cue": "Tight body", "description": "Core engaged, no arching or piking"},
+      {"id": "b003-3", "cue": "Straight arms", "description": "Arms stay straight and strong throughout"},
+      {"id": "b003-4", "cue": "Smooth rotation", "description": "Controlled circle, not a panic spin"}
+    ],
+    "relatedSkillIds": ["bars-001", "bars-002"],
+    "videos": [{"id": "b003-vid1", "title": "Back Hip Circle — Beginner Bars Tutorial", "url": "https://www.youtube.com/results?search_query=back+hip+circle+gymnastics+bars+level+3+tutorial", "type": "tutorial"}],
+    "tags": ["bars", "beginner", "hip circle", "rotation", "xcel-gold", "xcel-platinum"]
+  },
+  {
+    "id": "bars-004",
+    "name": "Giant Swing",
+    "technicalName": "Giant",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "A giant is a full 360-degree swing around the bar while hanging with straight arms and a stretched body. Your daughter starts in a handstand above the bar and swings all the way around, passing through the lowest point (hanging below the bar) and back up to handstand again. Giants are the most important skill on bars — they generate the power for releases, pirouettes, and dismounts.",
+    "whatToLookFor": [
+      "A long, stretched body shape throughout the entire swing",
+      "An obvious hollow position as she comes through the bottom of the swing",
+      "The handstand at the top looking solid and vertical",
+      "Arms staying straight — any bent arms receive an automatic deduction",
+      "No piking at the hips — her body should look like one long line"
+    ],
+    "commonMistakes": [
+      "A 'banana' back (arch) instead of a hollow body position",
+      "Bending the arms at any point, especially at the top going into handstand",
+      "Piking at the hips in the bottom of the swing",
+      "Shoulders creeping up to the ears instead of staying down and strong",
+      "Losing the body line coming up on the back side of the swing"
+    ],
+    "quickTipsChecklist": [
+      {"id": "b004-1", "cue": "Stretched long body", "description": "From fingertips to toes she looks tall and tight"},
+      {"id": "b004-2", "cue": "Hollow through the bottom", "description": "Core engaged as she swings through the lowest point"},
+      {"id": "b004-3", "cue": "Straight arms", "description": "Elbows locked throughout the entire giant"},
+      {"id": "b004-4", "cue": "Vertical handstand", "description": "Reaches a true handstand at the top"}
+    ],
+    "relatedSkillIds": ["bars-002", "bars-005", "bars-006"],
+    "videos": [{"id": "b004-vid1", "title": "Giant Swing on Bars — Gymnastics Tutorial", "url": "https://www.youtube.com/results?search_query=giant+swing+gymnastics+uneven+bars+tutorial+level+5+6", "type": "tutorial"}],
+    "tags": ["bars", "intermediate", "giant", "swing", "foundation"]
+  }
+]
