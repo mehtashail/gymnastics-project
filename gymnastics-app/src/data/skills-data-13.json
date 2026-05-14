@@ -1,0 +1,149 @@
+[
+  {
+    "id": "floor-029",
+    "name": "Front Handspring + Front Tuck",
+    "technicalName": "Front Handspring + Front Salto Tuck",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "This forward-moving combination is a popular second tumbling pass in Excel Gold and Platinum routines. Your daughter runs, does a front handspring (landing with feet together or stepping out), and immediately punches off the floor into a front tuck (front flip in a tucked position). Because it moves forward instead of backward like the round-off pass, it creates visual variety that judges and audiences notice. In Excel Platinum, where only A and B value skills are allowed, the B-value front tuck makes this a strong choice for the required salto pass.",
+    "whatToLookFor": [
+      "A punchy, powerful front handspring that ends with a strong two-foot takeoff for the tuck",
+      "The front tuck going up before it goes forward — height matters, not just rotation",
+      "A tight tuck position: knees to chest, back rounded, chin slightly down",
+      "Opening up from the tuck in time to see the floor and land on her feet",
+      "A controlled landing with bent knees, arms forward for balance"
+    ],
+    "commonMistakes": [
+      "A weak \"punch\" off the floor after the handspring, causing a low flat front tuck that barely makes it around",
+      "Throwing the head back to initiate the tuck, which opens the body early and loses rotation",
+      "Legs separating wide in the tuck instead of staying together",
+      "Over-rotating and landing forward on her hands — she needs to spot the landing and block"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "fl029-1",
+        "cue": "Strong punch",
+        "description": "Both feet punch the floor hard at the end of the handspring — this launches the tuck"
+      },
+      {
+        "id": "fl029-2",
+        "cue": "Go up first",
+        "description": "The front tuck should rise before rotating, not nose-dive forward"
+      },
+      {
+        "id": "fl029-3",
+        "cue": "Tight tuck",
+        "description": "Knees to chest, back round, legs together through the flip"
+      },
+      {
+        "id": "fl029-4",
+        "cue": "See the floor to land",
+        "description": "She spots the mat before opening — no surprises on landing"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-016",
+      "floor-025",
+      "floor-015",
+      "floor-028"
+    ],
+    "videos": [
+      {
+        "id": "fl029-vid1",
+        "title": "Front Handspring Front Tuck — Tutorial",
+        "url": "https://www.youtube.com/results?search_query=front+handspring+front+tuck+gymnastics+floor+tutorial+xcel",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "intermediate",
+      "front handspring",
+      "front tuck",
+      "front salto",
+      "forward tumbling",
+      "tumbling pass",
+      "connected acro",
+      "b-level",
+      "xcel-gold",
+      "xcel-platinum",
+      "level 5",
+      "level 6"
+    ]
+  },
+  {
+    "id": "floor-030",
+    "name": "Full Turn (Pirouette) on Floor",
+    "technicalName": "Full Turn on One Foot",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "A full turn is a 360-degree spin balanced on one foot (in passé position — the other foot resting against the standing knee) performed on the spring floor. It looks similar to the beam pirouette (beam-003) but without the narrow beam to worry about. Excel Gold requires a minimum 360-degree turn in the floor routine, and Excel Platinum similarly requires a full turn on one foot. A clean, controlled turn on floor demonstrates balance, core strength, and body control that judges reward.",
+    "whatToLookFor": [
+      "Rising to the ball of the foot cleanly at the start — the spin should begin from a stable relevé",
+      "The free foot in a clear passé position (touching the side of the standing knee), not dropped or sickled",
+      "A single focused spot — she should look at one point, spin away, then snap her head back to the same spot",
+      "Arms held in a controlled position (first position or rounded in front), not flying wide",
+      "Completing a full 360 degrees and landing with control, not stumbling off balance"
+    ],
+    "commonMistakes": [
+      "Not rising high enough on the ball of the foot, so the turn is slow and wobbly from the start",
+      "The free foot dropping below the knee, making the passé look messy to judges",
+      "Not spotting — the head drifts instead of snapping, causing dizziness and loss of direction",
+      "Arms opening wide during the turn, which slows rotation and throws off balance",
+      "Completing only three-quarters of the turn and stepping out early — judges count every degree"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "fl030-1",
+        "cue": "High relevé",
+        "description": "She rises as high as possible on the ball of her foot before spinning"
+      },
+      {
+        "id": "fl030-2",
+        "cue": "Passé position clean",
+        "description": "Free foot rests against the standing knee, toes pointed"
+      },
+      {
+        "id": "fl030-3",
+        "cue": "Spot one point",
+        "description": "Eyes lock on a spot, then snap back as she completes the turn"
+      },
+      {
+        "id": "fl030-4",
+        "cue": "Full 360 degrees",
+        "description": "She finishes all the way around — not stopping at 270"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-010",
+      "floor-013",
+      "beam-003"
+    ],
+    "videos": [
+      {
+        "id": "fl030-vid1",
+        "title": "Full Turn (Pirouette) on Floor — Tutorial",
+        "url": "https://www.youtube.com/results?search_query=gymnastics+floor+full+turn+pirouette+one+foot+tutorial+beginner",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "full turn",
+      "pirouette",
+      "turn",
+      "360 turn",
+      "dance element",
+      "xcel-gold",
+      "xcel-platinum",
+      "level 3",
+      "level 4",
+      "required element"
+    ]
+  }
+]
