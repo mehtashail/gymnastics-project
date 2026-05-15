@@ -1,0 +1,442 @@
+[
+  {
+    "id": "floor-007",
+    "name": "Triple Double (Biles II)",
+    "technicalName": "Triple-Double / Double Salto with Triple Twist",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "H",
+    "difficultyTier": "Elite",
+    "description": "The Biles II is the hardest skill in women's gymnastics — in the world. Named after Simone Biles, it involves two backflips with three twists simultaneously. No one else in competitive gymnastics has done this skill. When Simone performs it, it's one of those moments where the entire arena falls silent and then erupts in disbelief. This skill has its own letter value that didn't exist in the Code of Points before Biles.",
+    "whatToLookFor": [
+      "This skill is so rare you will only see Simone Biles do it — any video of it is worth showing",
+      "Two complete backflips AND three complete twists happening at the same time",
+      "An almost incomprehensible amount of rotation packed into a single skill",
+      "The landing happening on the spring floor after all that spinning",
+      "Pure power, speed, and precision throughout"
+    ],
+    "commonMistakes": [
+      "This skill has no common mistakes in the normal sense — very few people can attempt it",
+      "If your daughter is learning this, her coach has things well in hand"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f007-1",
+        "cue": "Maximum everything",
+        "description": "Maximum power, maximum height, maximum body tension"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-006",
+      "floor-005"
+    ],
+    "videos": [
+      {
+        "id": "f007-vid1",
+        "title": "Biles — Triple Double at World Championships",
+        "url": "https://www.youtube.com/results?search_query=triple+double+Biles+II+gymnastics+floor+elite+tutorial",
+        "type": "competition",
+        "channel": "USA Gymnastics"
+      }
+    ],
+    "tags": [
+      "floor",
+      "elite",
+      "biles",
+      "triple double",
+      "world record"
+    ]
+  },
+  {
+    "id": "floor-008",
+    "name": "Split Leap",
+    "technicalName": "Split Leap",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "A split leap is when your daughter takes off from one foot and reaches a full split (180-degree leg split) in the air before landing. It's a dance element required in every level of gymnastics. A beautiful split leap looks like your daughter is flying — back leg parallel to the floor, front leg reaching forward, body upright and elegant.",
+    "whatToLookFor": [
+      "A 180-degree split — both legs fully extended and level with each other",
+      "Good height — she should visibly leave the ground",
+      "An upright torso — not leaning forward over the front leg",
+      "Pointed toes on both feet throughout the leap",
+      "A graceful, confident landing on the front leg"
+    ],
+    "commonMistakes": [
+      "A 'bent' split where the back leg hasn't kicked up high enough — judges measure the angle",
+      "Leaning forward with the chest over the front leg",
+      "Flexed (bent-back) feet instead of pointed toes — this is a clear deduction",
+      "Not getting enough height, making the split hard to achieve in the air",
+      "Landing heavily with no grace or control"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f008-1",
+        "cue": "Full 180° split",
+        "description": "Both legs fully extended and level in the air"
+      },
+      {
+        "id": "f008-2",
+        "cue": "Upright torso",
+        "description": "Chest doesn't lean forward over the front leg"
+      },
+      {
+        "id": "f008-3",
+        "cue": "Pointed toes",
+        "description": "Both feet have beautiful pointed toes"
+      },
+      {
+        "id": "f008-4",
+        "cue": "Good height",
+        "description": "Visibly leaves the ground with the leap"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-009",
+      "floor-010"
+    ],
+    "videos": [
+      {
+        "id": "f008-vid1",
+        "title": "Split Leap Drill — How to Improve Your Split Leap",
+        "url": "https://www.youtube.com/watch?v=zTaxFy7Hy14",
+        "type": "drill",
+        "channel": "The Hybrid Perspective"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "split leap",
+      "dance",
+      "flexibility",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-009",
+    "name": "Switch Leap",
+    "technicalName": "Switch Leap",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Beginner",
+    "description": "A switch leap starts like a split leap but adds a leg switch in the air — your daughter takes off with the right leg forward, then switches so the left leg is forward when she lands. It requires more air time and coordination than a basic split leap and demonstrates that your daughter has good spatial awareness and flexibility.",
+    "whatToLookFor": [
+      "A clear switch of the legs in the air — the leading leg changes",
+      "A full split position achieved after the switch (not just after takeoff)",
+      "Good height to have time for the switch to occur",
+      "Pointed toes on both feet",
+      "Landing on the correct foot (the one that came forward after the switch)"
+    ],
+    "commonMistakes": [
+      "The switch not happening — it just looks like a regular split leap",
+      "The split only happening before the switch, not after (wrong timing)",
+      "Not enough height for the switch to occur cleanly",
+      "One or both feet flexed (not pointed) during the leap",
+      "Landing off-balance after the switch"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f009-1",
+        "cue": "Switch clearly visible",
+        "description": "Legs clearly change front-to-back in the air"
+      },
+      {
+        "id": "f009-2",
+        "cue": "Split after switch",
+        "description": "Full split achieved after the leg change"
+      },
+      {
+        "id": "f009-3",
+        "cue": "Good height",
+        "description": "Enough height for the switch to happen cleanly"
+      },
+      {
+        "id": "f009-4",
+        "cue": "Pointed toes",
+        "description": "Feet stay pointed throughout"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-008",
+      "floor-010"
+    ],
+    "videos": [
+      {
+        "id": "f009-vid1",
+        "title": "Switch Leap Gymnastics Tutorial",
+        "url": "https://www.youtube.com/results?search_query=switch+leap+gymnastics+floor+exercise+tutorial+level+5+6",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "switch leap",
+      "dance",
+      "flexibility",
+      "xcel-gold",
+      "xcel-platinum",
+      "b-level"
+    ]
+  },
+  {
+    "id": "floor-010",
+    "name": "Fouetté Turn",
+    "technicalName": "Fouetté Turn",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "Named from ballet, a fouetté turn involves whipping the leg around to generate spin — your daughter kicks her working leg out to the side and then brings it in repeatedly to create or maintain rotation. Multiple fouetté turns in a row (like a chain of turns) are called 'fouetté series' and show advanced dance skill.",
+    "whatToLookFor": [
+      "The whipping leg motion that drives each turn",
+      "Rising up on the supporting leg's toes for the spin",
+      "A consistent spot (focus point) — she should snap her head around with each turn",
+      "Maintaining the same height and position with each turn in a series",
+      "A controlled finish that ends cleanly"
+    ],
+    "commonMistakes": [
+      "Not spotting — the head should snap around sharply to a single focus point each turn",
+      "Sinking down on the supporting leg instead of staying on high toes",
+      "The whipping leg going too high or not high enough",
+      "Traveling across the floor instead of turning in place",
+      "The series getting worse as it goes — the last turn should be as good as the first"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f010-1",
+        "cue": "Spot every turn",
+        "description": "Head snaps to focus point with each rotation"
+      },
+      {
+        "id": "f010-2",
+        "cue": "High releve",
+        "description": "Stays high on toes throughout the series"
+      },
+      {
+        "id": "f010-3",
+        "cue": "Consistent whip",
+        "description": "Same leg motion drives every turn"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-008",
+      "floor-011"
+    ],
+    "videos": [
+      {
+        "id": "f010-vid1",
+        "title": "Fouetté Turns — Gymnastics Floor",
+        "url": "https://www.youtube.com/results?search_query=fouette+turn+gymnastics+floor+dance+element+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "intermediate",
+      "fouette",
+      "turn",
+      "dance",
+      "series"
+    ]
+  },
+  {
+    "id": "floor-011",
+    "name": "Straddle Jump",
+    "technicalName": "Straddle Jump",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "A straddle jump is when your daughter jumps straight up and spreads her legs out to the sides in the air, reaching for her toes. It's a staple of any floor routine and is one of the first jumps gymnasts learn. The wider the spread and the more she can reach toward her feet, the better the score.",
+    "whatToLookFor": [
+      "A high jump — she should clearly leave the ground",
+      "Legs spreading wide out to the sides (the wider the better)",
+      "Arms reaching toward the toes",
+      "Pointed toes on both feet",
+      "Two-foot landing with control (no stumbling or extra steps)"
+    ],
+    "commonMistakes": [
+      "A small jump that doesn't give enough air time for the straddle",
+      "Legs not going wide enough — a narrow straddle looks weak",
+      "Feet flexed (toes not pointed) — an automatic deduction",
+      "Not reaching toward the feet — arms hanging down at the sides",
+      "Landing on one foot or stumbling forward"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f011-1",
+        "cue": "High jump",
+        "description": "Jumps as high as possible"
+      },
+      {
+        "id": "f011-2",
+        "cue": "Wide straddle",
+        "description": "Legs spread far out to the sides"
+      },
+      {
+        "id": "f011-3",
+        "cue": "Arms reach for toes",
+        "description": "Arms stretch toward feet"
+      },
+      {
+        "id": "f011-4",
+        "cue": "Pointed toes",
+        "description": "Both feet pointed throughout the jump"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-008",
+      "floor-009"
+    ],
+    "videos": [
+      {
+        "id": "f011-vid1",
+        "title": "Straddle Jump Tutorial — Gymnastics Floor",
+        "url": "https://www.youtube.com/results?search_query=straddle+jump+gymnastics+floor+dance+element+beginner+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "straddle jump",
+      "dance",
+      "jump",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-012",
+    "name": "Double Layout (Floor)",
+    "technicalName": "Double Salto Layout",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "F",
+    "difficultyTier": "Elite",
+    "description": "Two backflips in a row with a completely straight body position — the hardest commonly competed tumbling pass in elite women's gymnastics (outside the Biles family of skills). The straight body position rotates more slowly than tucked or piked, so your daughter must generate incredible power and height. Simone Biles and very few others compete this skill regularly.",
+    "whatToLookFor": [
+      "A spectacularly powerful approach — the fastest, most explosive run of her tumbling",
+      "A completely straight body for BOTH flips — no bend anywhere",
+      "Remarkable height — you should see her well above the floor at the peak",
+      "Two distinct flips clearly visible",
+      "A landing that shows she's in control after all that rotation"
+    ],
+    "commonMistakes": [
+      "Not generating enough power — attempting this without adequate strength and training is dangerous",
+      "Piking during the second flip — the layout must be maintained for both",
+      "Insufficient height, causing the second flip to be completed very close to the ground",
+      "Over-rotating and crashing forward",
+      "Only completing 1.5 layouts"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f012-1",
+        "cue": "Maximum power approach",
+        "description": "Absolute maximum speed and power into the tumbling"
+      },
+      {
+        "id": "f012-2",
+        "cue": "Straight body both flips",
+        "description": "Perfect layout maintained for both rotations"
+      },
+      {
+        "id": "f012-3",
+        "cue": "Great height",
+        "description": "Rises far above the floor"
+      },
+      {
+        "id": "f012-4",
+        "cue": "Two visible flips",
+        "description": "Both rotations clearly distinguishable"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-006",
+      "floor-005"
+    ],
+    "videos": [
+      {
+        "id": "f012-vid1",
+        "title": "Double Layout — Elite Floor Exercise",
+        "url": "https://www.youtube.com/results?search_query=double+layout+gymnastics+floor+elite+tutorial",
+        "type": "competition"
+      }
+    ],
+    "tags": [
+      "floor",
+      "elite",
+      "double layout",
+      "salto",
+      "straight body"
+    ]
+  },
+  {
+    "id": "floor-013",
+    "name": "Wolf Turn (Floor)",
+    "technicalName": "Wolf Turn",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "The floor wolf turn is the same skill as on beam but on the spring floor — your daughter squats on one leg with the other extended out to the side and spins. The spring floor makes balancing easier than beam but the turn still requires flexibility, balance, and the ability to spot quickly. Multiple wolf turns in a row show high difficulty.",
+    "whatToLookFor": [
+      "A clear squat position — the bent leg should be at 90 degrees",
+      "The extended leg held straight throughout",
+      "A smooth, consistent spin with good speed",
+      "The number of rotations matching what was attempted (1, 2, or more turns)",
+      "A clean finish without stumbling or stepping"
+    ],
+    "commonMistakes": [
+      "Rising up too high — should be in a low wolf position, not standing",
+      "The extended leg bending at the knee",
+      "Stopping before completing all rotations",
+      "Traveling across the floor while turning (should spin in place)",
+      "Losing balance at the end"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f013-1",
+        "cue": "Low wolf squat",
+        "description": "Squatting leg at 90°, low position"
+      },
+      {
+        "id": "f013-2",
+        "cue": "Extended leg straight",
+        "description": "Side leg stays fully extended"
+      },
+      {
+        "id": "f013-3",
+        "cue": "Complete all turns",
+        "description": "Every rotation visibly completes"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-010",
+      "floor-008"
+    ],
+    "videos": [
+      {
+        "id": "f013-vid1",
+        "title": "Wolf Turn Floor Exercise Tutorial",
+        "url": "https://www.youtube.com/results?search_query=wolf+turn+floor+exercise+gymnastics+tutorial+level+6+7",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "intermediate",
+      "wolf turn",
+      "spin",
+      "dance element",
+      "xcel-gold",
+      "xcel-platinum",
+      "b-level"
+    ]
+  }
+]

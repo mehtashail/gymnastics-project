@@ -1,0 +1,472 @@
+[
+  {
+    "id": "vault-011",
+    "name": "Squat On, Jump Off",
+    "technicalName": "Squat-On Vault",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "This is often the very first real vault a young gymnast learns — usually in Level 1-3 or XCEL Bronze. She runs down the runway, bounces off the springboard, and lands both feet on top of the vault table in a squat (crouching) position. From there, she stands up and jumps off to land on the mat. Think of it like jumping on and then off a big box.",
+    "whatToLookFor": [
+      "A confident run and a good two-foot jump onto the springboard",
+      "Both feet landing squarely on top of the vault table at the same time",
+      "A brief moment of balance in the squat position before jumping off",
+      "Arms reaching forward as she jumps off the table",
+      "A controlled landing with bent knees — not a stumble forward"
+    ],
+    "commonMistakes": [
+      "Landing only one foot on the vault table instead of two simultaneously",
+      "Squatting too far back on the table and falling toward the springboard side",
+      "Jumping off the table before finding balance, which leads to a forward crash",
+      "Not using enough spring off the board, making the feet barely reach the table"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "v011-1",
+        "cue": "Two feet on table",
+        "description": "Both feet land on the vault top at the same moment"
+      },
+      {
+        "id": "v011-2",
+        "cue": "Brief balance",
+        "description": "She pauses a moment in squat before jumping off"
+      },
+      {
+        "id": "v011-3",
+        "cue": "Arms forward on dismount",
+        "description": "Arms reach out in front as she jumps off the table"
+      },
+      {
+        "id": "v011-4",
+        "cue": "Soft landing",
+        "description": "Bent knees absorb the landing — no crashing or stumbling"
+      }
+    ],
+    "relatedSkillIds": [
+      "vault-001",
+      "vault-003"
+    ],
+    "videos": [
+      {
+        "id": "v011-vid1",
+        "title": "Squat On Jump Off Vault — Beginner Gymnastics",
+        "url": "https://www.youtube.com/results?search_query=squat+on+jump+off+vault+gymnastics+level+1+2+3+beginner+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "vault",
+      "beginner",
+      "squat-on",
+      "first vault",
+      "level 1",
+      "level 2",
+      "level 3"
+    ]
+  },
+  {
+    "id": "vault-012",
+    "name": "Front Handspring Vault with Full Twist",
+    "technicalName": "FHS with 360° Twist",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "This vault starts exactly like the basic front handspring vault — she runs, hits the springboard, and pushes off the table — but then adds a full 360-degree twist while in the air before landing. Her body spins like a corkscrew during the flight phase. It's a crowd-pleasing skill because the spin happens while she's airborne, making it look much more impressive than the basic version.",
+    "whatToLookFor": [
+      "A powerful, fast run that doesn't slow down near the board",
+      "Strong straight arms on the table — same foundation as the basic FHS",
+      "A clean, controlled twist that starts immediately after leaving the table",
+      "The twist completing fully before she begins to land (not still spinning on the mat)",
+      "A stable landing — the twist makes balance harder, so extra steps are common but penalized"
+    ],
+    "commonMistakes": [
+      "Starting the twist too early (on the table) instead of in the air — looks messy and loses power",
+      "An incomplete twist where she lands at only 270 degrees, facing sideways",
+      "Losing height by twisting too quickly — the vault should still show a clear flight phase",
+      "Landing off-axis and stumbling sideways because the twist wasn't straight"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "v012-1",
+        "cue": "Fast approach",
+        "description": "Full sprint all the way to the board"
+      },
+      {
+        "id": "v012-2",
+        "cue": "Twist starts in air",
+        "description": "The rotation begins after she leaves the table, not on it"
+      },
+      {
+        "id": "v012-3",
+        "cue": "Full 360 completed",
+        "description": "She lands facing the vault — twist is complete before landing"
+      },
+      {
+        "id": "v012-4",
+        "cue": "Controlled landing",
+        "description": "Feet together, knees bent, minimal steps"
+      }
+    ],
+    "relatedSkillIds": [
+      "vault-001",
+      "vault-004",
+      "vault-005"
+    ],
+    "videos": [
+      {
+        "id": "v012-vid1",
+        "title": "Front Handspring Full Twist Vault Tutorial",
+        "url": "https://www.youtube.com/results?search_query=front+handspring+full+twist+vault+gymnastics+tutorial+level+6+7",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "vault",
+      "intermediate",
+      "handspring",
+      "full twist",
+      "level 6",
+      "level 7"
+    ]
+  },
+  {
+    "id": "bars-014",
+    "name": "Mill Circle",
+    "technicalName": "Mill Circle (Forward Hip Circle)",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The mill circle is one of the first bar skills young gymnasts learn — it's a fundamental Level 3 skill done on the low bar. Starting in a straddle position with her hips resting on the bar (one leg in front, one behind), she leans forward and swings all the way around the bar in a full circle, ending back where she started. It looks like she's rotating around a horizontal pole with her hips as the pivot point.",
+    "whatToLookFor": [
+      "A clear straddle start — one leg in front, one behind, hips on the bar",
+      "A confident lean forward to initiate the circle — she shouldn't hesitate",
+      "Her body staying close to the bar throughout the rotation",
+      "Straight legs during the circle (bent knees are a common deduction)",
+      "A clean finish back in the straddle position, in control"
+    ],
+    "commonMistakes": [
+      "Bending the knees during the circle, which loses the clean line judges look for",
+      "Sliding off the bar during the rotation — usually because hips aren't centered",
+      "Not leaning forward enough to start the circle, causing the skill to stall halfway",
+      "Letting go of the bar in a panic mid-circle — this is a safety concern"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "b014-1",
+        "cue": "Straddle on bar",
+        "description": "One leg forward, one behind, hips resting on the bar"
+      },
+      {
+        "id": "b014-2",
+        "cue": "Confident lean forward",
+        "description": "Leans into the rotation without stopping"
+      },
+      {
+        "id": "b014-3",
+        "cue": "Straight legs",
+        "description": "Knees stay extended throughout the circle"
+      },
+      {
+        "id": "b014-4",
+        "cue": "Full rotation",
+        "description": "Completes the circle and returns to start position"
+      }
+    ],
+    "relatedSkillIds": [
+      "bars-001",
+      "bars-002",
+      "bars-003"
+    ],
+    "videos": [
+      {
+        "id": "b014-vid1",
+        "title": "Mill Circle on Bars — Level 3 Gymnastics Tutorial",
+        "url": "https://www.youtube.com/results?search_query=mill+circle+forward+hip+circle+gymnastics+bars+level+3+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "bars",
+      "beginner",
+      "mill circle",
+      "hip circle",
+      "level 3",
+      "low bar",
+      "foundational",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "bars-015",
+    "name": "Flyaway Dismount",
+    "technicalName": "Layout Flyaway",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "The flyaway is the most common bars dismount you'll see at gymnastics meets from Level 4 all the way up. At the peak of a giant swing or underswing, your daughter releases the bar and flies through the air in a straight (layout) or tucked position, landing on the mat facing away from the bar. The name says it all — she literally flies away from the bar.",
+    "whatToLookFor": [
+      "A powerful giant swing or underswing leading into the dismount",
+      "A clean release of both hands at the same moment — no one hand releasing early",
+      "A straight or tight body position in the air (not sagging or arching randomly)",
+      "Good height after release — she should visibly rise before coming down",
+      "Landing on two feet with control — not pitching forward onto hands"
+    ],
+    "commonMistakes": [
+      "Releasing the bar too early (at the bottom of the swing) instead of at the top, which kills height",
+      "Letting go with one hand before the other, causing a sideways twist",
+      "A bent/piked body during the flight that makes the dismount look uncontrolled",
+      "Over-rotating and landing facing the bar instead of away from it",
+      "A blind landing — she should be spotting the mat before her feet arrive"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "b015-1",
+        "cue": "Powerful swing into dismount",
+        "description": "A big swinging motion powers the release"
+      },
+      {
+        "id": "b015-2",
+        "cue": "Both hands release together",
+        "description": "Simultaneous release for a straight flight"
+      },
+      {
+        "id": "b015-3",
+        "cue": "Visible height",
+        "description": "She rises clearly before coming down to the mat"
+      },
+      {
+        "id": "b015-4",
+        "cue": "Two-foot landing",
+        "description": "Sticks on two feet facing away from the bar"
+      }
+    ],
+    "relatedSkillIds": [
+      "bars-004",
+      "bars-008"
+    ],
+    "videos": [
+      {
+        "id": "b015-vid1",
+        "title": "Flyaway Dismount Gymnastics Bars Tutorial",
+        "url": "https://www.youtube.com/results?search_query=layout+flyaway+dismount+gymnastics+bars+level+5+6+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "bars",
+      "intermediate",
+      "dismount",
+      "flyaway",
+      "level 4",
+      "level 5",
+      "release"
+    ]
+  },
+  {
+    "id": "bars-016",
+    "name": "Stalder Circle",
+    "technicalName": "Stalder",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Advanced",
+    "description": "Named after Swiss gymnast Josef Stalder, this is a circling skill where your daughter keeps her legs in a straddle (wide-apart) position while circling the bar. Instead of a giant swing where legs stay together, the Stalder requires her to hold a pike-straddle shape with legs pressed against the bar on each side as she rotates. It demands extreme flexibility and body tension — making it a big step up from a regular giant swing.",
+    "whatToLookFor": [
+      "A clear straddle shape entering the circle — legs noticeably wide apart",
+      "Her legs pressing close to the bar (not floating away) as she goes around",
+      "A tight body position maintained throughout — no loosening mid-rotation",
+      "A smooth, continuous rotation rather than a jerky or stalled circle",
+      "A clean finish into a handstand or cast position after completing the circle"
+    ],
+    "commonMistakes": [
+      "Legs drifting away from the bar during the circle, losing the required shape",
+      "A hip angle that opens too early, killing the rotation before completion",
+      "Insufficient flexibility — the straddle requires exceptional hip flexibility",
+      "Stalling at the back or top of the circle and losing momentum"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "b016-1",
+        "cue": "Wide straddle maintained",
+        "description": "Legs stay wide apart throughout the entire circle"
+      },
+      {
+        "id": "b016-2",
+        "cue": "Legs close to bar",
+        "description": "Thighs press near the bar as she rotates around"
+      },
+      {
+        "id": "b016-3",
+        "cue": "No pausing",
+        "description": "Smooth continuous rotation with no hesitation"
+      },
+      {
+        "id": "b016-4",
+        "cue": "Clean finish",
+        "description": "Arrives back at handstand or cast in control"
+      }
+    ],
+    "relatedSkillIds": [
+      "bars-004",
+      "bars-006",
+      "bars-007"
+    ],
+    "videos": [
+      {
+        "id": "b016-vid1",
+        "title": "Stalder Circle Gymnastics Uneven Bars",
+        "url": "https://www.youtube.com/results?search_query=stalder+circle+gymnastics+uneven+bars+level+8+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "bars",
+      "advanced",
+      "stalder",
+      "circle",
+      "straddle",
+      "flexibility"
+    ]
+  },
+  {
+    "id": "beam-014",
+    "name": "Forward Roll on Beam",
+    "technicalName": "Forward Roll",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "A forward somersault performed entirely on the 4-inch wide balance beam. Your daughter tucks her chin, places her hands on the beam, and rolls forward, bringing her feet over and around to land back on the beam in a standing position. It's the same basic motion as a floor forward roll — but done on a beam barely wider than a textbook. Level 3 gymnasts learn this as one of their first beam acrobatic elements.",
+    "whatToLookFor": [
+      "Chin tucked to chest before initiating the roll — this protects her neck",
+      "Hands placed flat and evenly on the beam, shoulder-width apart",
+      "A smooth, controlled roll along the spine — not a crash or a topple to the side",
+      "Feet landing squarely on the beam when she comes around — not too wide or narrow",
+      "Standing up in control without grabbing the beam with hands"
+    ],
+    "commonMistakes": [
+      "Not tucking the chin, causing her to roll on her head instead of the back of her skull",
+      "Placing hands unevenly, which starts the roll with a sideways lean",
+      "Rolling too fast and losing control when her feet hit the beam",
+      "Overbalancing forward onto her face when standing up from the roll"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm014-1",
+        "cue": "Chin tucked before roll",
+        "description": "Chin goes to chest first — protects her neck"
+      },
+      {
+        "id": "bm014-2",
+        "cue": "Even hand placement",
+        "description": "Both hands on the beam, centered, at the same time"
+      },
+      {
+        "id": "bm014-3",
+        "cue": "Controlled roll speed",
+        "description": "Smooth rotation — not too fast, not stalled"
+      },
+      {
+        "id": "bm014-4",
+        "cue": "Feet land on beam",
+        "description": "Feet arrive squarely on the beam when coming up to stand"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-001",
+      "beam-002"
+    ],
+    "videos": [
+      {
+        "id": "bm014-vid1",
+        "title": "Forward Roll on Balance Beam — Gymnastics Tutorial",
+        "url": "https://www.youtube.com/results?search_query=forward+roll+balance+beam+gymnastics+tutorial+level+3+4",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "beginner",
+      "forward roll",
+      "level 3",
+      "acrobatic",
+      "foundational",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "beam-015",
+    "name": "Arabesque / Scale on Beam",
+    "technicalName": "Arabesque",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "An arabesque is a classical ballet position held on the beam: your daughter balances on one leg while extending the other leg straight behind her, with her arms gracefully extended. A scale is similar but the back leg is raised very high (ideally at or above hip height). These are dance elements required in almost every beam routine at every level. They look elegant but require strong balance and flexibility.",
+    "whatToLookFor": [
+      "Standing leg straight and not wobbling — the base of the whole position",
+      "Back leg lifted high and straight — ideally at or above hip level",
+      "Hips level (not tilted) — a common deduction judges look for",
+      "Arms graceful and extended, not tensed or flailing for balance",
+      "A still, held position — judges want to see she can maintain it, not just pass through it"
+    ],
+    "commonMistakes": [
+      "A bent knee on the standing leg, which makes the whole position look weak",
+      "Hips tilting sideways as the back leg rises — this is a significant deduction",
+      "Back leg barely at hip height when it should be higher",
+      "Arms grabbing for balance rather than held in a controlled shape",
+      "Wobbling or stepping out before the hold time is complete"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm015-1",
+        "cue": "Straight standing leg",
+        "description": "The support leg is fully extended, not bent"
+      },
+      {
+        "id": "bm015-2",
+        "cue": "Back leg high and straight",
+        "description": "The raised leg is at or above hip height"
+      },
+      {
+        "id": "bm015-3",
+        "cue": "Hips level",
+        "description": "Both hips are at the same height — no tilting"
+      },
+      {
+        "id": "bm015-4",
+        "cue": "Graceful arms",
+        "description": "Arms are held in a beautiful shape, not flailing"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-001",
+      "beam-003"
+    ],
+    "videos": [
+      {
+        "id": "bm015-vid1",
+        "title": "Arabesque on Balance Beam — Gymnastics Dance Elements",
+        "url": "https://www.youtube.com/results?search_query=arabesque+scale+balance+beam+gymnastics+dance+element+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "beginner",
+      "arabesque",
+      "scale",
+      "dance",
+      "ballet",
+      "balance",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  }
+]

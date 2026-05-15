@@ -1,0 +1,485 @@
+[
+  {
+    "id": "floor-020",
+    "name": "Round-off",
+    "technicalName": "Round-off",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The round-off is one of the most important skills in all of gymnastics because it converts forward-running momentum into backward power — which is exactly what's needed to do back handsprings and backflips. Your daughter runs forward, kicks into a cartwheel-like motion but snaps both feet down together instead of one at a time, ending up facing the direction she came from with both feet landing simultaneously. Almost every tumbling pass starts with a round-off. Level 1-3 gymnasts spend a large part of practice just working on their round-off.",
+    "whatToLookFor": [
+      "A strong hurdle (one-two approach step) into the round-off — this builds speed",
+      "Straight arms when hands hit the floor — same as a cartwheel",
+      "The body rotating sideways through the handstand position",
+      "A sharp snap-down — both feet hitting the floor at the exact same moment (this is what separates it from a cartwheel)",
+      "Finishing with her back to the direction she came from — she's reversed direction"
+    ],
+    "commonMistakes": [
+      "Feet not landing simultaneously — one landing before the other makes it look like a sloppy cartwheel",
+      "Bent arms on the floor contact — loses power and can be a safety issue",
+      "A weak or slow snap-down — without a sharp snap the momentum dies and there's nothing left for the next skill",
+      "Finishing with a body that isn't fully upright and ready to rebound into the next element"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f020-1",
+        "cue": "Strong hurdle into round-off",
+        "description": "A one-two step approach builds speed going in"
+      },
+      {
+        "id": "f020-2",
+        "cue": "Straight arms on floor",
+        "description": "Arms locked when hands contact the mat"
+      },
+      {
+        "id": "f020-3",
+        "cue": "Both feet land together",
+        "description": "The snap-down brings both feet to the mat at the same instant"
+      },
+      {
+        "id": "f020-4",
+        "cue": "Reversed direction at finish",
+        "description": "She ends up facing where she started — fully reversed"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-001",
+      "floor-021"
+    ],
+    "videos": [
+      {
+        "id": "f020-vid1",
+        "title": "Round-off Tutorial — Gymnastics Basics",
+        "url": "https://www.youtube.com/results?search_query=round+off+gymnastics+floor+tutorial+beginner+level+2+3+technique",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "round-off",
+      "level 1",
+      "level 2",
+      "level 3",
+      "foundational",
+      "tumbling prerequisite",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-021",
+    "name": "Back Handspring",
+    "technicalName": "Back Handspring",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The back handspring is one of the most iconic gymnastics skills — it's what most people picture when they think of a gymnast. Starting from standing, your daughter swings her arms, sits back like she's about to sit in a chair, then springs backward through the air placing her hands on the floor behind her and snapping her feet back down to land. It's like a very fast backward bridge that keeps moving. Gymnasts usually learn this at Level 3-4 and it becomes the backbone of all their tumbling. You'll also see it done in series — two, three, or more in a row.",
+    "whatToLookFor": [
+      "A powerful arm swing to initiate the skill — arms swinging backward drive the jump",
+      "A jump up and backward — not just falling backward, but genuinely jumping",
+      "Straight arms when hands contact the floor — no bending at the elbows",
+      "A tight, hollow body as legs snap over and around",
+      "A sharp, simultaneous two-foot landing — not one foot then the other"
+    ],
+    "commonMistakes": [
+      "Just falling backward instead of jumping — this is one of the most common beginner mistakes and makes the skill look slow and dangerous",
+      "Bending the arms when hands hit the floor, which collapses the skill and risks the wrists",
+      "Looking backward and craning the neck — coaches want the head in a neutral position",
+      "Feet landing one at a time instead of together — looks sloppy and kills the rebound"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f021-1",
+        "cue": "Jump backward — don't fall",
+        "description": "She should feel like she's jumping up and back, not just collapsing"
+      },
+      {
+        "id": "f021-2",
+        "cue": "Arms swing hard",
+        "description": "Arm swing backward is what creates the backward momentum"
+      },
+      {
+        "id": "f021-3",
+        "cue": "Straight arms on floor",
+        "description": "Elbows locked when hands contact the mat — no bending"
+      },
+      {
+        "id": "f021-4",
+        "cue": "Both feet land together",
+        "description": "Snap-down brings both feet to the mat at the same time"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-001",
+      "floor-020"
+    ],
+    "videos": [
+      {
+        "id": "f021-vid1",
+        "title": "How to Do a Back Handspring — GymnasticsHQ Tutorial",
+        "url": "https://www.youtube.com/watch?v=crNEeo63POQ",
+        "type": "tutorial",
+        "channel": "GymnasticsHQ"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "back handspring",
+      "BHS",
+      "level 3",
+      "level 4",
+      "tumbling",
+      "foundational",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-022",
+    "name": "Back Layout with Half Twist",
+    "technicalName": "Back Salto Layout 1/2",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "The back layout with half twist (often called a 'half' or 'layout half') is one of the most common tumbling elements you'll see at Level 6-8 meets. It's a back layout flip — straight body, no tuck — but in the middle of the flip she adds a 180-degree half-turn, so she lands facing the opposite direction from where she took off. The twist is smooth and controlled, not panicked. Parents at higher-level meets see this constantly but often think it's a full twist because the turn looks big in the air.",
+    "whatToLookFor": [
+      "A powerful round-off and back handspring leading in — speed fuels the layout",
+      "The body staying completely straight and tight throughout — no piking or tucking at any point",
+      "The half-turn happening smoothly in the middle of the flip — not jammed in awkwardly at the end",
+      "Landing facing away from the direction of travel — completing the 180-degree turn",
+      "A controlled landing on both feet — not stumbling from the twist"
+    ],
+    "commonMistakes": [
+      "Piking (bending at the hips) during the layout — the body should be a straight plank throughout",
+      "Twisting too early (right at takeoff) which makes the whole skill look off-balance",
+      "Only completing a quarter-turn — ending up sideways instead of reversed",
+      "Stumbling forward on the landing because the twist rotated the body off-axis"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f022-1",
+        "cue": "Straight body throughout",
+        "description": "No bending at the hips — body stays flat like a board"
+      },
+      {
+        "id": "f022-2",
+        "cue": "Twist is smooth and even",
+        "description": "The half-turn flows naturally in the middle of the flip"
+      },
+      {
+        "id": "f022-3",
+        "cue": "Full 180 completed",
+        "description": "She lands facing the opposite direction from takeoff"
+      },
+      {
+        "id": "f022-4",
+        "cue": "Controlled landing",
+        "description": "Both feet land together with minimal extra steps"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-003",
+      "floor-001",
+      "floor-004"
+    ],
+    "videos": [
+      {
+        "id": "f022-vid1",
+        "title": "Layout Half Twist — Gymnastics Floor Tutorial",
+        "url": "https://www.youtube.com/results?search_query=back+layout+half+twist+gymnastics+floor+tutorial+level+6+7+8",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "intermediate",
+      "layout half",
+      "half twist",
+      "back salto",
+      "level 6",
+      "level 7",
+      "level 8"
+    ]
+  },
+  {
+    "id": "floor-023",
+    "name": "Cartwheel",
+    "technicalName": "Cartwheel",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The cartwheel is the first major gymnastics skill almost every child learns, and it's the foundation for many future skills including the round-off, aerial cartwheel, and side aerial. Your daughter plants one hand, then the other, on the floor in a sideways arc while her legs sweep over one at a time, and she finishes standing up facing the direction she came from. It looks like a spinning wheel — which is exactly what the name means. In USAG Level 1, the cartwheel is the very first skill on the floor routine. Parents see cartwheels at every single meet from Level 1 upward.",
+    "whatToLookFor": [
+      "Straight arms when hands contact the floor — bent elbows collapse the skill and are a safety concern",
+      "Legs sweeping over fully in a straight line — a cartwheel should stay in one straight path, not curve sideways",
+      "Straight legs as they pass overhead — bent knees are penalized at any level",
+      "Pointed toes throughout — including when the feet are in the air above her head",
+      "A tall finish standing up — not hunching or tilting sideways at the end"
+    ],
+    "commonMistakes": [
+      "Bent arms when hands hit the floor — very common for beginners and always penalized",
+      "Doing a 'banana peel' cartwheel — curving around instead of traveling in a straight line",
+      "Bent knees during the kick-over — legs should be as straight as possible",
+      "Flexed feet (toes pointing up) while legs are overhead",
+      "Leaning sideways and losing balance at the finish"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f023-1",
+        "cue": "Straight arms on floor",
+        "description": "Both arms locked — no bending at the elbows"
+      },
+      {
+        "id": "f023-2",
+        "cue": "Straight line travel",
+        "description": "She moves in a straight path, not a curve"
+      },
+      {
+        "id": "f023-3",
+        "cue": "Legs straight overhead",
+        "description": "Knees don't bend when legs are in the air"
+      },
+      {
+        "id": "f023-4",
+        "cue": "Pointed toes",
+        "description": "Feet pointed throughout — including overhead"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-020",
+      "floor-021",
+      "floor-014"
+    ],
+    "videos": [
+      {
+        "id": "f023-vid1",
+        "title": "How to Do a Cartwheel — GymnasticsHQ Tutorial",
+        "url": "https://www.youtube.com/watch?v=a_zI6XrUEHk",
+        "type": "tutorial",
+        "channel": "GymnasticsHQ"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "cartwheel",
+      "level 1",
+      "level 2",
+      "foundational",
+      "sideways acrobatic",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "beam-022",
+    "name": "Handstand on Beam",
+    "technicalName": "Handstand",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "A handstand performed on the 4-inch wide balance beam requires everything a floor handstand does — and then the courage to do it on a surface barely wider than your hand. Your daughter places both hands on the beam and kicks up to a fully inverted, vertical position, holding it momentarily before coming back down. It's a required element at Level 4 and above. Judges want to see a controlled, vertical handstand held for a visible moment — not a wobbling pass-through.",
+    "whatToLookFor": [
+      "A fully vertical body — hips directly over shoulders, feet over hips. She shouldn't be arching or peeking",
+      "Hands placed flat and centered on the beam, shoulder-width apart",
+      "Pointed toes at the top — every detail counts even upside down",
+      "A controlled hold — the handstand should be still for a recognizable moment",
+      "A controlled, safe return — either stepping down one foot at a time or lowering with control"
+    ],
+    "commonMistakes": [
+      "An arched back (banana shape) rather than a straight vertical line — very common and always penalized",
+      "Kicking over beyond vertical and not catching the balance (falling into a cartwheel or walkover)",
+      "Feet not pointed at the top — a detail judges notice even upside down",
+      "A wobbly, unstable handstand that looks like she's barely hanging on rather than in control"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm022-1",
+        "cue": "Fully vertical",
+        "description": "Body stacked: hands → shoulders → hips → feet in a straight line"
+      },
+      {
+        "id": "bm022-2",
+        "cue": "Flat hands on beam",
+        "description": "Both palms on beam, fingers pointing forward, centered"
+      },
+      {
+        "id": "bm022-3",
+        "cue": "Pointed toes at top",
+        "description": "Feet pointed even when inverted"
+      },
+      {
+        "id": "bm022-4",
+        "cue": "Held position",
+        "description": "A clear, still pause at the top — not just swinging through"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-001",
+      "beam-002",
+      "beam-003"
+    ],
+    "videos": [
+      {
+        "id": "bm022-vid1",
+        "title": "Handstand on Balance Beam — Gymnastics Tutorial",
+        "url": "https://www.youtube.com/results?search_query=handstand+balance+beam+gymnastics+tutorial+level+4+required+element",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "beginner",
+      "handstand",
+      "inversion",
+      "level 4",
+      "required element",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "floor-024",
+    "name": "Handstand",
+    "technicalName": "Handstand",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The handstand is the most fundamental inverted position in gymnastics — balancing upside down on two hands with the body fully extended and vertical. Almost every gymnastics skill either starts or ends in a handstand position: giant swings on bars end in handstand, back walkovers pass through handstand, back handsprings land through handstand. Young gymnasts spend an enormous amount of practice time just building handstand balance — usually against a wall first, then freestanding. Level 1-3 gymnasts are expected to kick to a handstand and hold for 1-2 seconds.",
+    "whatToLookFor": [
+      "A straight, vertical body line — shoulders over wrists, hips over shoulders, feet over hips. No arching or peeking",
+      "Arms fully straight — elbows locked out. Bent elbows collapse the handstand",
+      "Toes pointed — always, even in a handstand",
+      "A held balance — at least a visible moment of stillness at the top, not just swinging through",
+      "Fingers spread wide and pressing into the mat — this is how a gymnast steers the handstand"
+    ],
+    "commonMistakes": [
+      "A curved 'banana' shape in the back — the body should be a straight plank, not an arch",
+      "Looking up at the floor (head neutral is correct) — some coaches cue 'look at your thumbs' which creates the right head position",
+      "Bent elbows that can't support weight and make balance impossible",
+      "Feet not pointed — easy to forget when focusing on balance",
+      "Not pressing through the fingers — this is the main control mechanism for balance"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "f024-1",
+        "cue": "Straight body line",
+        "description": "No arch or pike — body is a rigid straight plank"
+      },
+      {
+        "id": "f024-2",
+        "cue": "Arms locked straight",
+        "description": "Elbows fully extended — not bent"
+      },
+      {
+        "id": "f024-3",
+        "cue": "Pointed toes",
+        "description": "Feet pointed even when inverted"
+      },
+      {
+        "id": "f024-4",
+        "cue": "Fingers spread and pressing",
+        "description": "Fingertips press into the mat to steer the balance"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-023",
+      "floor-020",
+      "floor-021"
+    ],
+    "videos": [
+      {
+        "id": "f024-vid1",
+        "title": "Handstand Tutorial — Gymnastics Basics",
+        "url": "https://www.youtube.com/results?search_query=handstand+gymnastics+floor+tutorial+beginner+level+1+2+3+technique",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "handstand",
+      "inversion",
+      "level 1",
+      "level 2",
+      "level 3",
+      "foundational",
+      "xcel-gold",
+      "xcel-platinum"
+    ]
+  },
+  {
+    "id": "vault-013",
+    "name": "Yurchenko Tuck",
+    "technicalName": "Yurchenko Tucked",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "The Yurchenko Tuck is usually the first Yurchenko vault a gymnast actually competes — it is the most common vault at Level 6 and lower Level 7 meets. Your daughter does the same round-off entry onto the springboard and back handspring onto the vault table as any Yurchenko, but instead of flying off in a straight body position, she pulls her knees to her chest into a tight tuck for the backflip in the air. The tucked position rotates faster than a layout, making it more accessible than the layout Yurchenko for gymnasts new to this vault family.",
+    "whatToLookFor": [
+      "A fast, powerful round-off into the springboard — the speed must be maintained all the way to the board",
+      "A clean back handspring onto the table — both hands, straight arms, back arched",
+      "A tight tuck immediately off the table — knees pulled to chest quickly",
+      "Enough height to complete the tuck and open before landing",
+      "A two-foot landing — opening from the tuck in time to stick"
+    ],
+    "commonMistakes": [
+      "Losing speed on the round-off approach — slowing down makes the vault fail before it starts",
+      "A loose tuck where knees don't fully reach the chest — judges see this clearly",
+      "Not opening from the tuck soon enough and landing while still curled (can be dangerous)",
+      "Landing too close to the vault table, which means height was lost off the table"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "v013-1",
+        "cue": "Full-speed round-off",
+        "description": "Fast round-off approach all the way to the board"
+      },
+      {
+        "id": "v013-2",
+        "cue": "Tight tuck off table",
+        "description": "Knees pulled to chest immediately after leaving the table"
+      },
+      {
+        "id": "v013-3",
+        "cue": "Open before landing",
+        "description": "Legs extend before feet touch the mat"
+      },
+      {
+        "id": "v013-4",
+        "cue": "Distance from vault",
+        "description": "Lands well away from the table — not right underneath it"
+      }
+    ],
+    "relatedSkillIds": [
+      "vault-003",
+      "vault-004",
+      "vault-005"
+    ],
+    "videos": [
+      {
+        "id": "v013-vid1",
+        "title": "Yurchenko Tuck Vault — Level 6 Gymnastics Tutorial",
+        "url": "https://www.youtube.com/results?search_query=yurchenko+tuck+vault+gymnastics+level+6+tutorial+round+off+entry",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "vault",
+      "intermediate",
+      "yurchenko",
+      "tuck",
+      "level 6",
+      "round-off entry"
+    ]
+  }
+]

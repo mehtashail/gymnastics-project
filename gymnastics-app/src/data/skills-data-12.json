@@ -1,0 +1,488 @@
+[
+  {
+    "id": "vault-014",
+    "name": "Yurchenko 1.5 Twist",
+    "technicalName": "Yurchenko 1/1 + 1/2 (540° twist)",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "E",
+    "difficultyTier": "Elite",
+    "description": "The Yurchenko 1.5 twist (sometimes called a DTY in coaching shorthand) is the most common elite-level vault below the Amanar. Your daughter performs the standard Yurchenko entry (round-off, back handspring onto table), then adds a full one-and-a-half turns (540 degrees total) in the air after leaving the table, landing facing the vault. It sits between the full-twist Yurchenko (vault-004) and the Amanar 2.5 twist (vault-005) in difficulty. Many Level 9-10 and collegiate gymnasts compete this vault. Parents at upper-level meets see it constantly.",
+    "whatToLookFor": [
+      "Maximum speed on the approach — one-and-a-half twists require more power than a full",
+      "A clean Yurchenko entry: round-off, back handspring onto the table with straight arms",
+      "The twist beginning cleanly after leaving the table (not on the table)",
+      "The full 1.5 rotations completing before she lands — she should be facing the vault at landing",
+      "A controlled landing — 1.5 twists carry significant rotational energy that must be absorbed"
+    ],
+    "commonMistakes": [
+      "Losing speed on the approach — 1.5 twists require maximum power to complete",
+      "Starting the twist too late or too early relative to leaving the table",
+      "Only completing one full twist (360°) rather than the required 1.5 (540°) — an incomplete twist is a significant deduction",
+      "Stumbling on landing from the rotational energy of 1.5 twists"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "v014-1",
+        "cue": "Maximum speed approach",
+        "description": "Full sprint all the way — no slowing near the board"
+      },
+      {
+        "id": "v014-2",
+        "cue": "Twist starts in air",
+        "description": "Rotation begins after leaving the table, not on it"
+      },
+      {
+        "id": "v014-3",
+        "cue": "Full 1.5 completed",
+        "description": "She faces the vault on landing — 540 degrees total"
+      },
+      {
+        "id": "v014-4",
+        "cue": "Absorbs rotational landing",
+        "description": "Controlled landing despite the significant twist energy"
+      }
+    ],
+    "relatedSkillIds": [
+      "vault-004",
+      "vault-005",
+      "vault-003"
+    ],
+    "videos": [
+      {
+        "id": "v014-vid1",
+        "title": "Yurchenko 1.5 Twist Vault — Level 10 Elite Tutorial",
+        "url": "https://www.youtube.com/results?search_query=yurchenko+1.5+twist+vault+gymnastics+level+10+elite+DTY",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "vault",
+      "elite",
+      "yurchenko",
+      "1.5 twist",
+      "DTY",
+      "level 10",
+      "collegiate",
+      "round-off entry"
+    ]
+  },
+  {
+    "id": "beam-024",
+    "name": "Front Walkover on Beam",
+    "technicalName": "Front Walkover",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "B",
+    "difficultyTier": "Intermediate",
+    "description": "The front walkover on beam is a required skill at Level 5 and commonly seen through Level 7. Your daughter kicks one leg up and forward, bridges over the beam with both hands touching, and steps down one foot at a time — the exact same motion as a floor front walkover, but on a 4-inch wide surface. The challenge is keeping everything centered on the beam while in a fully inverted bridge position. Parents at Level 5-6 meets see this in nearly every beam routine.",
+    "whatToLookFor": [
+      "A powerful kick with the lead leg — more kick means more control through the handstand position",
+      "Both hands landing flat and centered on the beam, shoulder-width apart",
+      "A clear split overhead — legs wide apart at the top of the walkover",
+      "Landing one foot at a time — stepping out of the walkover, not snapping both feet down",
+      "Staying centered on the beam throughout — no drifting to one side during the inversion"
+    ],
+    "commonMistakes": [
+      "A weak kick that stalls the skill in the bridge position on the beam (dangerous and very common)",
+      "Hands landing off-center on the beam, causing a sideways lean",
+      "Both feet landing simultaneously — which changes it to a front handspring on beam (a different, harder skill)",
+      "Losing balance and stepping off the beam on the hand placement or step-down"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm024-1",
+        "cue": "Powerful kick over",
+        "description": "Strong lead leg kick carries her all the way through the walkover"
+      },
+      {
+        "id": "bm024-2",
+        "cue": "Centered hand placement",
+        "description": "Both hands flat on the beam, centered, not off to one side"
+      },
+      {
+        "id": "bm024-3",
+        "cue": "Split at the top",
+        "description": "Legs wide apart when directly over the beam"
+      },
+      {
+        "id": "bm024-4",
+        "cue": "One foot at a time",
+        "description": "Steps down sequentially — front foot, then back foot"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-002",
+      "beam-021",
+      "beam-004"
+    ],
+    "videos": [
+      {
+        "id": "bm024-vid1",
+        "title": "Front Walkover on Balance Beam — Level 5 Tutorial",
+        "url": "https://www.youtube.com/results?search_query=front+walkover+balance+beam+gymnastics+tutorial+level+5+6",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "intermediate",
+      "front walkover",
+      "level 5",
+      "level 6",
+      "level 7",
+      "acrobatic",
+      "xcel-gold",
+      "xcel-platinum",
+      "b-level"
+    ]
+  },
+  {
+    "id": "beam-025",
+    "name": "Switch Leap on Beam",
+    "technicalName": "Switch Split Leap",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "The switch leap on beam is one of the most common dance elements at Level 6-8 and is distinct from the Switch Ring Leap (which requires a dramatic back-bend ring position). In the switch leap, your daughter takes off from one foot in a split leap position and then switches her legs in the air — front leg sweeps back, back leg sweeps forward — so she lands in the opposite split. This 'switching' of the legs in midair is what gives the skill both its name and its visual appeal. A required dance element at many optional levels, it's performed in nearly every competitive beam routine above Level 5.",
+    "whatToLookFor": [
+      "A clear first split position as she takes off — she needs to show the initial split before the switch",
+      "A visible switch of the legs — both legs change position in the air",
+      "The second split position also being clear — judges need to see two distinct split shapes",
+      "Good height — the switch cannot happen without sufficient air time",
+      "A controlled one-foot landing — not grabbing for balance on the beam after landing"
+    ],
+    "commonMistakes": [
+      "Insufficient height that leaves no time to show both split positions",
+      "A barely visible switch — legs trading positions so slowly that judges can't count two distinct shapes",
+      "Flexed feet on either the takeoff or landing leg",
+      "Landing and immediately losing balance — the beam is unforgiving if the landing foot isn't precisely centered"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm025-1",
+        "cue": "Show first split",
+        "description": "Initial split is clear before the switch happens"
+      },
+      {
+        "id": "bm025-2",
+        "cue": "Visible leg switch",
+        "description": "Both legs trade positions clearly in the air"
+      },
+      {
+        "id": "bm025-3",
+        "cue": "Good height",
+        "description": "Enough air time to show both split positions"
+      },
+      {
+        "id": "bm025-4",
+        "cue": "Pointed toes throughout",
+        "description": "Feet pointed from takeoff through landing"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-019",
+      "beam-008",
+      "beam-017"
+    ],
+    "videos": [
+      {
+        "id": "bm025-vid1",
+        "title": "Switch Leap on Balance Beam — Gymnastics Tutorial",
+        "url": "https://www.youtube.com/results?search_query=switch+leap+balance+beam+gymnastics+tutorial+level+6+7",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "intermediate",
+      "switch leap",
+      "dance element",
+      "leap",
+      "level 6",
+      "level 7",
+      "level 8"
+    ]
+  },
+  {
+    "id": "bars-023",
+    "name": "Toe-on Circle to Handstand",
+    "technicalName": "Toe-on Circle / Toe Hecht",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Advanced",
+    "description": "The toe-on circle (also called a toe hecht in some coaching traditions) is a circling skill where your daughter hooks her toes over the bar in a piked position, swings through under the bar forward, and rises up to a handstand. The 'toe-on' refers to the toes hooking over the bar at the beginning of the circle, which gives the gymnast extra leverage to complete the rotation. It's a staple of Level 7-8 bar routines, and parents at upper-JO meets see it constantly as a transition element that lets gymnasts link skills together.",
+    "whatToLookFor": [
+      "A clean toe-on position at the start — toes hooking over the bar, body piked",
+      "A smooth forward swing under the bar with good body tension",
+      "Rising into a handstand at the finish — not just returning to a cast but arriving fully vertical",
+      "A continuous, uninterrupted rotation — no stalling mid-circle",
+      "Toes leaving the bar cleanly as she rises to handstand — no snagging"
+    ],
+    "commonMistakes": [
+      "Toes not hooking over the bar cleanly, causing the skill to fail before it starts",
+      "Stalling at the bottom of the swing because of insufficient body tension",
+      "Not rising all the way to a handstand — stopping short in a cast position",
+      "Snagging toes on the bar as she rotates up, which disrupts the handstand finish"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "b023-1",
+        "cue": "Toes hook over bar",
+        "description": "Both toes hook cleanly over the bar at the start"
+      },
+      {
+        "id": "b023-2",
+        "cue": "Tight body tension",
+        "description": "Core and legs braced through the forward swing"
+      },
+      {
+        "id": "b023-3",
+        "cue": "Rise to full handstand",
+        "description": "Arrives at vertical handstand at the top — not half-way"
+      },
+      {
+        "id": "b023-4",
+        "cue": "Clean toe release",
+        "description": "Toes leave the bar smoothly as she rises up"
+      }
+    ],
+    "relatedSkillIds": [
+      "bars-016",
+      "bars-022",
+      "bars-002"
+    ],
+    "videos": [
+      {
+        "id": "b023-vid1",
+        "title": "Toe-on Circle to Handstand — Gymnastics Bars Tutorial",
+        "url": "https://www.youtube.com/results?search_query=toe+on+circle+handstand+gymnastics+bars+level+7+8+tutorial",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "bars",
+      "advanced",
+      "toe-on",
+      "circle",
+      "handstand",
+      "level 7",
+      "level 8",
+      "transition"
+    ]
+  },
+  {
+    "id": "bars-024",
+    "name": "Front Hip Circle on Bars",
+    "technicalName": "Forward Hip Circle",
+    "apparatus": "uneven_bars",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The front hip circle is a foundational bar skill where your daughter starts in a front support position (balanced above the bar with arms straight), leans forward, and circles all the way around the bar while keeping her hips pressed to it, returning to front support on top. Unlike the mill circle where legs are straddled, here the legs stay together the entire time. It counts as the required circling skill in Excel Gold bar routines.",
+    "whatToLookFor": [
+      "Starting in a solid front support with straight arms and body above the bar",
+      "Leaning forward gradually and committing to the circle — hesitation causes a stop halfway",
+      "Hips staying pressed to the bar throughout the rotation, not pulling away",
+      "Legs together and toes pointed the entire time around",
+      "Returning to a controlled front support on top, not collapsing forward"
+    ],
+    "commonMistakes": [
+      "Pulling the hips away from the bar mid-circle, which breaks the rotation and can cause a fall",
+      "Bending the knees during the circle, which loses the clean line judges want to see",
+      "Not leaning far enough forward at the start, causing the circle to stall before going around",
+      "Letting go of the bar out of fear — the bar should stay in the hip crease the whole time"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "b024-1",
+        "cue": "Hips to bar",
+        "description": "Her hips stay pressed against the bar all the way around"
+      },
+      {
+        "id": "b024-2",
+        "cue": "Legs together",
+        "description": "Legs stay squeezed together, not straddled or bent"
+      },
+      {
+        "id": "b024-3",
+        "cue": "Lean forward boldly",
+        "description": "She commits to the lean at the start — no hesitating"
+      },
+      {
+        "id": "b024-4",
+        "cue": "Land on top",
+        "description": "She finishes back in front support, balanced above the bar"
+      }
+    ],
+    "relatedSkillIds": [
+      "bars-003",
+      "bars-014",
+      "bars-017",
+      "bars-001"
+    ],
+    "videos": [
+      {
+        "id": "b024-vid1",
+        "title": "Front Hip Circle on Bars — Tutorial",
+        "url": "https://www.youtube.com/results?search_query=front+hip+circle+gymnastics+bars+tutorial+beginner",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "bars",
+      "beginner",
+      "front hip circle",
+      "circle",
+      "hip circle",
+      "xcel-gold",
+      "xcel-platinum",
+      "level 3",
+      "level 4",
+      "foundational",
+      "required element"
+    ]
+  },
+  {
+    "id": "beam-026",
+    "name": "Dance Series on Beam",
+    "technicalName": "Connected Dance Elements",
+    "apparatus": "balance_beam",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "A dance series is not a single trick — it is two dance skills performed back-to-back without stopping on the beam. The most common Excel Gold example is a cat leap flowing directly into a split leap. What makes it a \"series\" is the direct connection: she lands one skill and immediately launches into the next without pausing or taking an extra step. Judges specifically look for this in Excel Gold routines, so the connection is just as important as the skills themselves.",
+    "whatToLookFor": [
+      "A seamless flow from the first skill into the second — no extra steps or pauses between them",
+      "The landing of the first skill acting as the takeoff for the second skill",
+      "Both leaps or jumps showing good height, not flat and hurried",
+      "Toes pointed and legs extended during both skills, not just the first one",
+      "Body staying on the beam center throughout, not drifting sideways"
+    ],
+    "commonMistakes": [
+      "Taking an extra step or balance check between the two dance skills — this breaks the series and costs points",
+      "Making the second skill smaller or lower because she's tired from the first",
+      "Rushing through both skills so fast that neither has proper height or form",
+      "Connecting skills that are too difficult to perform cleanly back-to-back on a narrow beam"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "bm026-1",
+        "cue": "No pause between skills",
+        "description": "The landing of skill 1 directly launches skill 2 — no extra step"
+      },
+      {
+        "id": "bm026-2",
+        "cue": "Both skills show height",
+        "description": "Neither leap or jump looks flat — both have visible airtime"
+      },
+      {
+        "id": "bm026-3",
+        "cue": "Stay on center",
+        "description": "She stays on the beam's center line through both skills"
+      }
+    ],
+    "relatedSkillIds": [
+      "beam-019",
+      "beam-020",
+      "beam-017",
+      "beam-015"
+    ],
+    "videos": [
+      {
+        "id": "bm026-vid1",
+        "title": "Beam Dance Series — Cat Leap to Split Leap",
+        "url": "https://www.youtube.com/results?search_query=gymnastics+beam+dance+series+cat+leap+split+leap+xcel",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "beam",
+      "beginner",
+      "dance series",
+      "connection",
+      "leap series",
+      "compositional",
+      "xcel-gold",
+      "xcel-platinum",
+      "required element",
+      "dance element"
+    ]
+  },
+  {
+    "id": "floor-028",
+    "name": "Round-off BHS Back Tuck (XG Acro Pass)",
+    "technicalName": "Round-off + Back Handspring + Back Salto Tuck",
+    "apparatus": "floor_exercise",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "This is the most common first tumbling pass in Excel Gold floor routines. Your daughter runs, does a round-off to change direction, flows into a back handspring, and finishes with a back tuck (backflip in a tucked position). The three skills connect seamlessly — she should never look like she's stopping between them. The back tuck is the \"flight element\" that Excel Gold requires, meaning she is fully in the air with no hands touching the floor.",
+    "whatToLookFor": [
+      "A fast run that carries into the round-off — she shouldn't be slowing down before she starts",
+      "A powerful round-off that snaps her feet to the floor, not a slow one that dies the momentum",
+      "The back handspring flowing directly out of the round-off with no pause or step adjustment",
+      "A tight tuck in the back flip — knees pulled to chest, not a loose or lazy position",
+      "A controlled landing with bent knees, feet together, arms lifting to show she's done"
+    ],
+    "commonMistakes": [
+      "Losing speed between the round-off and the back handspring, which makes the back tuck fall short",
+      "A low, flat back handspring that doesn't generate enough height for the back tuck",
+      "Legs separating or going wide in the back tuck instead of staying in a tight tuck",
+      "Landing the back tuck with bent knees but falling forward — she needs to \"block\" and stay tall"
+    ],
+    "quickTipsChecklist": [
+      {
+        "id": "fl028-1",
+        "cue": "Fast run, don't slow down",
+        "description": "She keeps her speed all the way into the round-off"
+      },
+      {
+        "id": "fl028-2",
+        "cue": "Snap the round-off",
+        "description": "Round-off finishes with a sharp snap to the floor — this powers everything"
+      },
+      {
+        "id": "fl028-3",
+        "cue": "Tight tuck",
+        "description": "Knees pulled to chest in the back flip, not hanging loose"
+      },
+      {
+        "id": "fl028-4",
+        "cue": "Stick the landing",
+        "description": "She lands with bent knees and lifts her arms — no stumbling forward"
+      }
+    ],
+    "relatedSkillIds": [
+      "floor-001",
+      "floor-002",
+      "floor-020",
+      "floor-021"
+    ],
+    "videos": [
+      {
+        "id": "fl028-vid1",
+        "title": "Round-off BHS Back Tuck — Full Pass Tutorial",
+        "url": "https://www.youtube.com/results?search_query=round+off+back+handspring+back+tuck+gymnastics+tutorial+xcel+gold",
+        "type": "tutorial"
+      }
+    ],
+    "tags": [
+      "floor",
+      "beginner",
+      "round-off",
+      "back handspring",
+      "back tuck",
+      "salto",
+      "tumbling pass",
+      "connected acro",
+      "xcel-gold",
+      "xcel-platinum",
+      "level 4",
+      "level 5",
+      "required element"
+    ]
+  }
+]

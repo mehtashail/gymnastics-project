@@ -1,0 +1,223 @@
+[
+  {
+    "id": "vault-001",
+    "name": "Handspring Vault",
+    "technicalName": "Front Handspring",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "The front handspring vault is one of the first real vaults gymnasts learn. Your daughter runs down the runway, jumps on the springboard, places her hands on the vault table, and pushes off to land on her feet facing the judges. Think of it like a very fast, powered cartwheel over the table.",
+    "whatToLookFor": [
+      "A fast, confident run down the runway — speed makes the whole vault easier",
+      "A big jump onto the springboard with both feet together",
+      "Straight arms when her hands hit the vault table — bent arms waste the push",
+      "A strong push off the table so she's in the air for a visible moment",
+      "A controlled landing with slightly bent knees, not a crash or stumble"
+    ],
+    "commonMistakes": [
+      "Slowing down on the approach — this is very common and makes the vault harder, not easier",
+      "Bending the arms on the table, which collapses the vault and looks messy to judges",
+      "Landing flat-footed with a thud instead of absorbing the impact with bent knees",
+      "Not pushing tall enough off the table, making the flight phase look short"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v001-1", "cue": "Fast run", "description": "She builds up good speed the whole way down the runway"},
+      {"id": "v001-2", "cue": "Straight arms on table", "description": "Arms are locked straight when hands touch the vault"},
+      {"id": "v001-3", "cue": "Strong push-off", "description": "She pushes hard off the table and rises into the air"},
+      {"id": "v001-4", "cue": "Controlled landing", "description": "She lands with bent knees and doesn't take extra steps"}
+    ],
+    "relatedSkillIds": ["vault-002", "vault-003"],
+    "videos": [{"id": "v001-vid1", "title": "Front Handspring Vault — Tutorial", "url": "https://www.youtube.com/results?search_query=front+handspring+vault+gymnastics+tutorial+technique+beginner", "type": "tutorial"}],
+    "tags": ["vault", "beginner", "handspring", "foundation", "xcel-gold", "xcel-platinum"]
+  },
+  {
+    "id": "vault-002",
+    "name": "Tsukahara Vault (Tuck)",
+    "technicalName": "Tsukahara",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "C",
+    "difficultyTier": "Intermediate",
+    "description": "Named after Japanese gymnast Mitsuo Tsukahara, this vault involves a half-turn onto the table followed by a back salto (backflip) in the air. Your daughter approaches the vault, jumps to place her hands while turning sideways, then launches off into a backflip and lands facing the vault. It's a big step up from basic handspring vaults.",
+    "whatToLookFor": [
+      "A powerful run and jump — speed is even more critical here than in basic vaults",
+      "A clear half-turn as she places her hands on the table",
+      "Her body going up and over in a visible arc — you should see her rise before she drops",
+      "A tight tuck position during the backflip (knees pulled to chest)",
+      "Opening up before landing so she lands on her feet, not still spinning"
+    ],
+    "commonMistakes": [
+      "Not getting enough height off the table, making the backflip rushed and incomplete",
+      "A loose tuck position — legs dangling instead of pulled tight to the chest",
+      "Landing too close to the vault, which means she didn't get enough distance off the table",
+      "Stepping backward on landing because she didn't open up soon enough from the tuck"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v002-1", "cue": "Maximum speed approach", "description": "Full sprint all the way to the board"},
+      {"id": "v002-2", "cue": "Clear half-turn onto table", "description": "The sideways twist onto the table is visible and controlled"},
+      {"id": "v002-3", "cue": "Tight tuck", "description": "Knees pulled firmly to chest during the flip"},
+      {"id": "v002-4", "cue": "Early opening", "description": "She opens her body and spots the landing before she gets there"}
+    ],
+    "relatedSkillIds": ["vault-001", "vault-003"],
+    "videos": [{"id": "v002-vid1", "title": "Tsukahara Vault — Gymnastics Tutorial", "url": "https://www.youtube.com/results?search_query=tsukahara+vault+tuck+gymnastics+tutorial+level+6", "type": "tutorial"}],
+    "tags": ["vault", "intermediate", "tsukahara", "backflip"]
+  },
+  {
+    "id": "vault-003",
+    "name": "Yurchenko Layout",
+    "technicalName": "Yurchenko Layout / Back Salto Stretched",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Intermediate",
+    "description": "The Yurchenko Layout is the standard Yurchenko vault that Level 7-8 gymnasts compete. Your daughter performs the distinctive Yurchenko entry — a round-off onto the springboard followed by a back handspring onto the vault table — then launches off in a completely straight body position (no tucking or bending) and backflips to land. The \"layout\" refers to the straight, fully extended body in the air after the table. Almost all elite vault families use this same entry, making this vault the gateway to the entire Yurchenko world.",
+    "whatToLookFor": [
+      "A smooth, fast round-off onto the springboard — the timing here is crucial",
+      "An explosive push off the table in a straight body position",
+      "Her body rising high above the vault before beginning any rotation",
+      "The landing: two feet, slightly bent knees, arms coming down naturally"
+    ],
+    "commonMistakes": [
+      "A slow or poorly timed round-off that kills all the speed before the board",
+      "Piking (bending at the hips) over the table instead of staying straight",
+      "Not pushing hard enough off the table, resulting in a flat, low arc",
+      "Landing with straight legs (stiff knees) which is hard on the joints"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v003-1", "cue": "Powerful round-off", "description": "The round-off feeds speed into the springboard"},
+      {"id": "v003-2", "cue": "Straight body over table", "description": "No visible hip bend as she goes over the table"},
+      {"id": "v003-3", "cue": "Good height", "description": "She rises clearly above the vault before coming down"},
+      {"id": "v003-4", "cue": "Soft landing", "description": "Knees bend to absorb the landing"}
+    ],
+    "relatedSkillIds": ["vault-002", "vault-004"],
+    "videos": [{"id": "v003-vid1", "title": "Yurchenko Vault — Tutorial and Drills", "url": "https://www.youtube.com/results?search_query=yurchenko+layout+vault+gymnastics+tutorial+level+7+8", "type": "tutorial"}],
+    "tags": ["vault", "intermediate", "yurchenko", "layout", "level 7", "level 8", "round-off entry"]
+  },
+  {
+    "id": "vault-004",
+    "name": "Yurchenko with Twist",
+    "technicalName": "Yurchenko 1/1",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "D",
+    "difficultyTier": "Advanced",
+    "description": "Building on the basic Yurchenko, this vault adds a full 360-degree twist while your daughter is in the air. After the round-off onto the board and the push off the vault table, she performs one full twist before landing. It looks spectacular and is a significant achievement for a competitive gymnast.",
+    "whatToLookFor": [
+      "The same powerful Yurchenko entry as the basic version",
+      "Her body going tall and straight off the table before the twist begins",
+      "A clean, single twist — the full turn should happen at the peak of her height",
+      "Landing facing away from the vault (correct for a full twist)",
+      "No steps on landing — this is a high value skill so deductions hurt"
+    ],
+    "commonMistakes": [
+      "Starting the twist too early before getting height off the table",
+      "An incomplete or uneven twist — a 'half and a half' instead of one clean full",
+      "Losing body tension mid-twist so she looks floppy in the air",
+      "Taking multiple steps on landing because the twist timing was off"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v004-1", "cue": "Full height first", "description": "She gets up before starting to twist"},
+      {"id": "v004-2", "cue": "Clean single twist", "description": "One complete 360° turn, clearly visible"},
+      {"id": "v004-3", "cue": "Tight body throughout", "description": "No looseness during the twist"},
+      {"id": "v004-4", "cue": "Stuck landing", "description": "Lands with minimal extra steps"}
+    ],
+    "relatedSkillIds": ["vault-003", "vault-005"],
+    "videos": [{"id": "v004-vid1", "title": "Yurchenko Full Twist Vault", "url": "https://www.youtube.com/results?search_query=yurchenko+full+twist+vault+gymnastics+tutorial", "type": "tutorial"}],
+    "tags": ["vault", "advanced", "yurchenko", "full twist"]
+  },
+  {
+    "id": "vault-005",
+    "name": "Amanar Vault",
+    "technicalName": "Yurchenko 2.5",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "F",
+    "difficultyTier": "Elite",
+    "description": "Named after Romanian legend Simona Amanar, this is one of the most impressive vaults in women's gymnastics. It uses the Yurchenko entry but adds two and a half twists in the air — an incredible amount of spin for such a short time. This is the vault Simone Biles made famous and is considered a hallmark of elite gymnastics.",
+    "whatToLookFor": [
+      "An explosive, maximum-speed Yurchenko entry",
+      "Remarkable height off the table — she needs time to complete all those twists",
+      "Multiple twists happening rapidly but in control",
+      "A clean stick or near-stick on landing — judges expect excellence from elite vaults",
+      "Her chest staying up on landing, not hunching forward"
+    ],
+    "commonMistakes": [
+      "Not generating enough power in the approach, making the vault visibly rushed",
+      "Losing count on the twists and under-rotating (an over-rotation can be dangerous)",
+      "Body going soft during the twists, which slows rotation unpredictably",
+      "Landing with feet wide apart instead of together"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v005-1", "cue": "Maximum power approach", "description": "Full sprint, maximum height off board"},
+      {"id": "v005-2", "cue": "Tight body for all 2.5 twists", "description": "Arms and body stay tight throughout every twist"},
+      {"id": "v005-3", "cue": "Clear height", "description": "She rises significantly above the vault level"},
+      {"id": "v005-4", "cue": "Controlled landing", "description": "Lands in balance, chest up, minimal steps"}
+    ],
+    "relatedSkillIds": ["vault-004"],
+    "videos": [{"id": "v005-vid1", "title": "Amanar Vault — Simone Biles Competition", "url": "https://www.youtube.com/results?search_query=amanar+vault+2.5+twist+gymnastics+elite", "type": "competition"}],
+    "tags": ["vault", "elite", "amanar", "yurchenko", "2.5 twist"]
+  },
+  {
+    "id": "vault-006",
+    "name": "Cheng Vault",
+    "technicalName": "Round-off Half-on, Front Pike",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "F",
+    "difficultyTier": "Elite",
+    "description": "The Cheng vault is astonishing to watch. Your daughter does a round-off onto the springboard, then places her hands on the table with a half-turn (so she's now facing the runway she came from), then pushes off into a front pike salto. It combines backward and forward rotations in one vault, and very few gymnasts in the world can do it cleanly.",
+    "whatToLookFor": [
+      "The distinctive round-off + half twist onto the table — she should be facing backward",
+      "An explosive push-off into the front salto",
+      "A tight pike position with straight legs and hands reaching toward toes",
+      "Enough height to open up from the pike before landing",
+      "A landing facing the judges (since she flipped forward)"
+    ],
+    "commonMistakes": [
+      "Not rotating enough on the half-twist onto the table — the timing is extremely complex",
+      "Insufficient height, making the front flip look rushed",
+      "Loose pike position — bent knees or hands not reaching toes",
+      "Over-rotating and landing hunched forward"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v006-1", "cue": "Clean half-on", "description": "Clear half-twist onto the table is visible"},
+      {"id": "v006-2", "cue": "Front salto height", "description": "She gets up high before the flip begins"},
+      {"id": "v006-3", "cue": "Tight pike", "description": "Legs straight, hands toward toes"},
+      {"id": "v006-4", "cue": "Controlled landing", "description": "Opens from pike in time, lands in balance"}
+    ],
+    "relatedSkillIds": ["vault-004", "vault-005"],
+    "videos": [{"id": "v006-vid1", "title": "Cheng Vault — Gymnastics", "url": "https://www.youtube.com/results?search_query=cheng+vault+front+entry+gymnastics+elite+tutorial", "type": "competition"}],
+    "tags": ["vault", "elite", "cheng", "front pike", "round-off half-on"]
+  },
+  {
+    "id": "vault-007",
+    "name": "Cartwheel onto Springboard",
+    "technicalName": "Cartwheel Mount",
+    "apparatus": "vault",
+    "discipline": "WAG",
+    "difficultyValue": "A",
+    "difficultyTier": "Beginner",
+    "description": "This is one of the earliest vault-preparation skills your daughter will learn. She cartwheels onto the springboard to develop coordination and timing before learning full vaults. It's a training skill rather than a competition vault on its own, but mastering it builds confidence for the bigger skills to come.",
+    "whatToLookFor": [
+      "Straight arms during the cartwheel — a bent arm cartwheel is a bad habit to form early",
+      "Hitting the springboard at the correct spot (center, near the front)",
+      "Confidence and commitment — hesitation makes the skill harder",
+      "A clean cartwheel shape, not a crooked or sideways one"
+    ],
+    "commonMistakes": [
+      "Crooked or lopsided cartwheels — her hands and feet should be in a straight line",
+      "Bending the arms when hands hit the board",
+      "Stopping or hesitating before the cartwheel, losing momentum",
+      "Not looking where she's going on the approach"
+    ],
+    "quickTipsChecklist": [
+      {"id": "v007-1", "cue": "Straight arms", "description": "Arms stay locked throughout the cartwheel"},
+      {"id": "v007-2", "cue": "Hits center of board", "description": "Hands make contact at the right spot"},
+      {"id": "v007-3", "cue": "Confident approach", "description": "No hesitation on the run-up"}
+    ],
+    "relatedSkillIds": ["vault-001"],
+    "videos": [{"id": "v007-vid1", "title": "Beginner Vault Skills and Springboard Tutorial", "url": "https://www.youtube.com/results?search_query=yurchenko+pike+vault+gymnastics+tutorial+advanced", "type": "tutorial"}],
+    "tags": ["vault", "beginner", "cartwheel", "training", "prerequisite"]
+  }
+]
